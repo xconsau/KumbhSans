@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <unicode hex="00BC"/>
+  <advance width="1775"/>
+  <outline>
+    <contour>
+      <point x="1389" y="173" type="line" name="ah01"/>
+      <point x="1389" y="0" type="line" name="ab02"/>
+      <point x="1519" y="0" type="line"/>
+      <point x="1519" y="173" type="line" name="sv01"/>
+      <point x="1615" y="173" type="line"/>
+      <point x="1615" y="293" type="line" name="sv02"/>
+      <point x="1519" y="293" type="line" name="sh04"/>
+      <point x="1519" y="800" type="line"/>
+      <point x="1379" y="800" type="line" name="sh05"/>
+      <point x="1007" y="293" type="line" name="dv02"/>
+      <point x="1007" y="173" type="line" name="dv01"/>
+    </contour>
+    <contour>
+      <point x="290" y="-1" type="line" name="ab01"/>
+      <point x="443" y="-1" type="line" name="sh03"/>
+      <point x="1371" y="1500" type="line" name="at01"/>
+      <point x="1218" y="1500" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="1317" type="line"/>
+      <point x="324" y="1363" type="line"/>
+      <point x="324" y="700" type="line" name="sh01"/>
+      <point x="454" y="700" type="line" name="sh02"/>
+      <point x="454" y="1500" type="line" name="at02"/>
+      <point x="366" y="1500" type="line" name="at03"/>
+      <point x="160" y="1426" type="line"/>
+    </contour>
+    <contour>
+      <point x="1144" y="293" type="line" name="iv02"/>
+      <point x="1389" y="627" type="line" name="iv01"/>
+      <point x="1389" y="293" type="line" name="sv03"/>
+    </contour>
+  </outline>
+</glyph>
