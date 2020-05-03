@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <unicode hex="0024"/>
+  <advance width="1205" height="1660"/>
+  <outline>
+    <contour>
+      <point x="160" y="208" type="line"/>
+      <point x="270" y="126"/>
+      <point x="401" y="76"/>
+      <point x="539" y="63" type="curve"/>
+      <point x="539" y="-119" type="line" name="dv01"/>
+      <point x="679" y="-119" type="line" name="sh01"/>
+      <point x="679" y="63" type="line"/>
+      <point x="892" y="89"/>
+      <point x="1045" y="245"/>
+      <point x="1045" y="449" type="curve" smooth="yes" name="dh05"/>
+      <point x="1045" y="674"/>
+      <point x="858" y="762"/>
+      <point x="679" y="836" type="curve" smooth="yes"/>
+      <point x="671" y="840"/>
+      <point x="664" y="843"/>
+      <point x="656" y="846" type="curve" smooth="yes"/>
+      <point x="615" y="863"/>
+      <point x="575" y="879"/>
+      <point x="539" y="897" type="curve" smooth="yes"/>
+      <point x="440" y="945"/>
+      <point x="366" y="1002"/>
+      <point x="366" y="1098" type="curve" smooth="yes" name="dh02"/>
+      <point x="366" y="1232"/>
+      <point x="498" y="1287"/>
+      <point x="613" y="1287" type="curve" smooth="yes" name="dv07"/>
+      <point x="717" y="1287"/>
+      <point x="812" y="1260"/>
+      <point x="903" y="1209" type="curve"/>
+      <point x="982" y="1350" type="line"/>
+      <point x="881" y="1402"/>
+      <point x="778" y="1430"/>
+      <point x="679" y="1439" type="curve"/>
+      <point x="679" y="1617" type="line"/>
+      <point x="539" y="1617" type="line" name="dv06"/>
+      <point x="539" y="1436" type="line"/>
+      <point x="333" y="1410"/>
+      <point x="196" y="1282"/>
+      <point x="196" y="1093" type="curve" smooth="yes" name="dh01"/>
+      <point x="196" y="881"/>
+      <point x="368" y="795"/>
+      <point x="539" y="723" type="curve" smooth="yes"/>
+      <point x="550" y="718"/>
+      <point x="561" y="714"/>
+      <point x="572" y="709" type="curve" smooth="yes"/>
+      <point x="609" y="694"/>
+      <point x="645" y="678"/>
+      <point x="679" y="662" type="curve" smooth="yes"/>
+      <point x="790" y="610"/>
+      <point x="875" y="547"/>
+      <point x="875" y="435" type="curve" smooth="yes" name="dh04"/>
+      <point x="875" y="291"/>
+      <point x="746" y="211"/>
+      <point x="615" y="211" type="curve" smooth="yes" name="dv04"/>
+      <point x="477" y="211"/>
+      <point x="345" y="269"/>
+      <point x="243" y="361" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1525</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
