@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <unicode hex="0055"/>
+  <advance width="1540" height="1660"/>
+  <outline>
+    <contour>
+      <point x="160" y="660" type="curve" smooth="yes" name="sh02"/>
+      <point x="160" y="1500" type="line" name="at02"/>
+      <point x="335" y="1500" type="line"/>
+      <point x="335" y="630" type="line" smooth="yes" name="sh03"/>
+      <point x="335" y="341"/>
+      <point x="507" y="130"/>
+      <point x="770" y="130" type="curve" smooth="yes" name="dv02"/>
+      <point x="1033" y="130"/>
+      <point x="1205" y="341"/>
+      <point x="1205" y="630" type="curve" smooth="yes" name="ah01"/>
+      <point x="1205" y="1500" type="line"/>
+      <point x="1380" y="1500" type="line" name="at01"/>
+      <point x="1380" y="660" type="line" smooth="yes" name="sh01"/>
+      <point x="1380" y="240"/>
+      <point x="1153" y="-30"/>
+      <point x="770" y="-30" type="curve" smooth="yes" name="dv01"/>
+      <point x="387" y="-30"/>
+      <point x="160" y="240"/>
+    </contour>
+    <contour>
+      <point x="770" y="1520" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="770" y="-20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

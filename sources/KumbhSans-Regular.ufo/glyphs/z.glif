@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <unicode hex="007A"/>
+  <advance width="1065" height="1615.88"/>
+  <outline>
+    <contour>
+      <point x="352" y="150" type="line" name="sv01"/>
+      <point x="935" y="150" type="line"/>
+      <point x="935" y="0" type="line" name="ab01"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="135" type="line"/>
+      <point x="692" y="850" type="line" name="sv02"/>
+      <point x="158" y="850" type="line"/>
+      <point x="158" y="1000" type="line" name="at01"/>
+      <point x="913" y="1000" type="line"/>
+      <point x="913" y="864" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="1020" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

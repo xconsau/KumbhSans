@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <unicode hex="02DC"/>
+  <advance width="964"/>
+  <outline>
+    <contour>
+      <point x="160" y="1262" type="line"/>
+      <point x="160" y="1396"/>
+      <point x="238" y="1480"/>
+      <point x="347" y="1480" type="curve" smooth="yes" name="av01"/>
+      <point x="418" y="1480"/>
+      <point x="466" y="1443"/>
+      <point x="509" y="1409" type="curve" smooth="yes"/>
+      <point x="545" y="1380"/>
+      <point x="579" y="1353"/>
+      <point x="623" y="1353" type="curve" smooth="yes"/>
+      <point x="673" y="1353"/>
+      <point x="701" y="1387"/>
+      <point x="704" y="1450" type="curve"/>
+      <point x="804" y="1450" type="line"/>
+      <point x="804" y="1316"/>
+      <point x="724" y="1233"/>
+      <point x="613" y="1233" type="curve" smooth="yes" name="av02"/>
+      <point x="538" y="1233"/>
+      <point x="493" y="1271"/>
+      <point x="457" y="1301" type="curve" smooth="yes"/>
+      <point x="418" y="1334"/>
+      <point x="387" y="1360"/>
+      <point x="343" y="1360" type="curve" smooth="yes"/>
+      <point x="293" y="1360"/>
+      <point x="263" y="1325"/>
+      <point x="260" y="1262" type="curve"/>
+    </contour>
+    <contour>
+      <point x="482" y="1020" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>-242</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

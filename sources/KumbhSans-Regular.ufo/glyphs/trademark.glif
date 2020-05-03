@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <unicode hex="2122"/>
+  <advance width="1660"/>
+  <outline>
+    <contour>
+      <point x="804" y="761" type="line" name="dh03"/>
+      <point x="804" y="1353" type="line"/>
+      <point x="1032" y="876" type="line" name="iv02"/>
+      <point x="1159" y="876" type="line" name="iv01"/>
+      <point x="1386" y="1352" type="line"/>
+      <point x="1386" y="761" type="line" name="av03"/>
+      <point x="1500" y="761" type="line"/>
+      <point x="1500" y="1501" type="line" name="dh04"/>
+      <point x="1332" y="1501" type="line" name="at05"/>
+      <point x="1096" y="1006" type="line"/>
+      <point x="860" y="1501" type="line" name="at03"/>
+      <point x="690" y="1501" type="line"/>
+      <point x="690" y="761" type="line" name="av02"/>
+    </contour>
+    <contour>
+      <point x="80" y="1398" type="line"/>
+      <point x="281" y="1398" type="line" name="dh01"/>
+      <point x="281" y="761" type="line" name="av01"/>
+      <point x="395" y="761" type="line"/>
+      <point x="395" y="1398" type="line" name="dh02"/>
+      <point x="596" y="1398" type="line"/>
+      <point x="596" y="1501" type="line" name="at01"/>
+      <point x="80" y="1501" type="line"/>
+    </contour>
+  </outline>
+</glyph>

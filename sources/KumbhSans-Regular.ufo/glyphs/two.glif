@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <unicode hex="0032"/>
+  <advance width="1274" height="1660"/>
+  <outline>
+    <contour>
+      <point x="160" y="1228" type="curve"/>
+      <point x="295" y="1125" type="line"/>
+      <point x="385" y="1285"/>
+      <point x="506" y="1370"/>
+      <point x="644" y="1370" type="curve" smooth="yes" name="sv01"/>
+      <point x="800" y="1370"/>
+      <point x="909" y="1259"/>
+      <point x="909" y="1102" type="curve" smooth="yes" name="dh01"/>
+      <point x="909" y="890"/>
+      <point x="710" y="622"/>
+      <point x="211" y="160" type="curve"/>
+      <point x="211" y="0" type="line" name="ab01"/>
+      <point x="1134" y="0" type="line"/>
+      <point x="1134" y="160" type="line" name="sv02"/>
+      <point x="427" y="160" type="line"/>
+      <point x="873" y="516"/>
+      <point x="1089" y="822"/>
+      <point x="1089" y="1099" type="curve" smooth="yes" name="dh02"/>
+      <point x="1089" y="1354"/>
+      <point x="907" y="1530"/>
+      <point x="645" y="1530" type="curve" smooth="yes" name="at01"/>
+      <point x="443" y="1530"/>
+      <point x="274" y="1425"/>
+    </contour>
+  </outline>
+</glyph>
