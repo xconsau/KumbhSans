@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <unicode hex="00F0"/>
+  <advance width="1119"/>
+  <outline>
+    <contour>
+      <point x="532" y="915" type="curve" smooth="yes" name="dv01"/>
+      <point x="646" y="915"/>
+      <point x="736" y="873"/>
+      <point x="804" y="811" type="curve"/>
+      <point x="757" y="932"/>
+      <point x="685" y="1050"/>
+      <point x="597" y="1152" type="curve"/>
+      <point x="307" y="1026" type="line" name="dv03"/>
+      <point x="259" y="1136" type="line" name="dv04"/>
+      <point x="507" y="1244" type="line"/>
+      <point x="445" y="1301"/>
+      <point x="378" y="1351"/>
+      <point x="306" y="1391" type="curve"/>
+      <point x="406" y="1530" type="line"/>
+      <point x="505" y="1474"/>
+      <point x="597" y="1402"/>
+      <point x="678" y="1318" type="curve"/>
+      <point x="922" y="1424" type="line"/>
+      <point x="970" y="1314" type="line"/>
+      <point x="761" y="1223" type="line"/>
+      <point x="926" y="1014"/>
+      <point x="1029" y="756"/>
+      <point x="1029" y="511" type="curve" smooth="yes" name="sh03"/>
+      <point x="1029" y="175"/>
+      <point x="835" y="-30"/>
+      <point x="543" y="-30" type="curve" smooth="yes" name="at01"/>
+      <point x="254" y="-30"/>
+      <point x="60" y="171"/>
+      <point x="60" y="448" type="curve" smooth="yes" name="sh01"/>
+      <point x="60" y="726"/>
+      <point x="255" y="915"/>
+    </contour>
+    <contour>
+      <point x="240" y="451" type="curve" smooth="yes" name="sh02"/>
+      <point x="240" y="266"/>
+      <point x="368" y="130"/>
+      <point x="543" y="130" type="curve" smooth="yes" name="sv01"/>
+      <point x="717" y="130"/>
+      <point x="845" y="265"/>
+      <point x="845" y="450" type="curve" smooth="yes" name="ah01"/>
+      <point x="845" y="636"/>
+      <point x="717" y="770"/>
+      <point x="543" y="770" type="curve" smooth="yes" name="dv02"/>
+      <point x="367" y="770"/>
+      <point x="240" y="636"/>
+    </contour>
+  </outline>
+</glyph>

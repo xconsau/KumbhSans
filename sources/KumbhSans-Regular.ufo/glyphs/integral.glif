@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="integral" format="1">
+  <unicode hex="222B"/>
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="10" y="-170" type="line" name="dv02"/>
+      <point x="168" y="-170"/>
+      <point x="261" y="-65"/>
+      <point x="261" y="113" type="curve"/>
+      <point x="261" y="610"/>
+      <point x="220" y="890"/>
+      <point x="220" y="1387" type="curve"/>
+      <point x="220" y="1656"/>
+      <point x="376" y="1820"/>
+      <point x="633" y="1820" type="curve" name="dv04"/>
+      <point x="636" y="1670" type="line" name="dv03"/>
+      <point x="478" y="1670"/>
+      <point x="385" y="1565"/>
+      <point x="385" y="1387" type="curve"/>
+      <point x="385" y="890"/>
+      <point x="426" y="610"/>
+      <point x="426" y="113" type="curve"/>
+      <point x="426" y="-156"/>
+      <point x="270" y="-320"/>
+      <point x="13" y="-320" type="curve" name="dv01"/>
+    </contour>
+  </outline>
+</glyph>
