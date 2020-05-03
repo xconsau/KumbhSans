@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a" format="1">
+  <unicode hex="0061"/>
+  <advance width="1127" height="1660"/>
+  <outline>
+    <contour>
+      <point x="98" y="275" type="curve" smooth="yes"/>
+      <point x="98" y="475"/>
+      <point x="284" y="625"/>
+      <point x="545" y="625" type="curve" smooth="yes" name="dv04"/>
+      <point x="600" y="625"/>
+      <point x="662" y="618"/>
+      <point x="723" y="607" type="curve"/>
+      <point x="701" y="716"/>
+      <point x="622" y="770"/>
+      <point x="486" y="770" type="curve" smooth="yes"/>
+      <point x="407" y="770"/>
+      <point x="322" y="738"/>
+      <point x="243" y="679" type="curve"/>
+      <point x="144" y="922" type="line"/>
+      <point x="283" y="989"/>
+      <point x="419" y="1020"/>
+      <point x="541" y="1020" type="curve" smooth="yes"/>
+      <point x="830" y="1020"/>
+      <point x="1017" y="846"/>
+      <point x="1017" y="578" type="curve" smooth="yes" name="sh02"/>
+      <point x="1017" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="756" y="107" type="line"/>
+      <point x="681" y="28"/>
+      <point x="571" y="-20"/>
+      <point x="443" y="-20" type="curve" smooth="yes"/>
+      <point x="240" y="-20"/>
+      <point x="98" y="100"/>
+    </contour>
+    <contour>
+      <point x="386" y="341" type="curve" smooth="yes" name="dh02"/>
+      <point x="386" y="274"/>
+      <point x="442" y="230"/>
+      <point x="526" y="230" type="curve" smooth="yes" name="dv02"/>
+      <point x="640" y="230"/>
+      <point x="729" y="309"/>
+      <point x="729" y="410" type="curve" smooth="yes" name="dh03"/>
+      <point x="729" y="430" type="line"/>
+      <point x="679" y="446"/>
+      <point x="621" y="456"/>
+      <point x="566" y="456" type="curve" smooth="yes" name="dv03"/>
+      <point x="452" y="456"/>
+      <point x="386" y="414"/>
+    </contour>
+    <contour>
+      <point x="558" y="1020" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="918" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>870</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
