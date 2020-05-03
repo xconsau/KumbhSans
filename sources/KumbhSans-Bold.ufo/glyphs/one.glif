@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <unicode hex="0031"/>
+  <advance width="943" height="1660"/>
+  <outline>
+    <contour>
+      <point x="575" y="1500" type="line"/>
+      <point x="743" y="1500" type="line" name="dh02"/>
+      <point x="743" y="0" type="line" name="ab01"/>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="1146" type="line"/>
+      <point x="148" y="1041" type="line"/>
+      <point x="50" y="1309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0.08</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>218</real>
+      <key>y</key>
+      <real>1500</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe" format="1">
+  <unicode hex="0153"/>
+  <advance width="2070"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="1714" y="574" type="line"/>
+      <point x="1686" y="691"/>
+      <point x="1593" y="770"/>
+      <point x="1472" y="770" type="curve" smooth="yes" name="sv02"/>
+      <point x="1349" y="770"/>
+      <point x="1252" y="689"/>
+      <point x="1224" y="574" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1230" y="414" type="line"/>
+      <point x="1266" y="303"/>
+      <point x="1369" y="227"/>
+      <point x="1499" y="227" type="curve" smooth="yes" name="dv02"/>
+      <point x="1637" y="227"/>
+      <point x="1721" y="276"/>
+      <point x="1796" y="347" type="curve"/>
+      <point x="1970" y="139" type="line"/>
+      <point x="1815" y="18"/>
+      <point x="1661" y="-20"/>
+      <point x="1523" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="1192" y="-20"/>
+      <point x="959" y="200"/>
+      <point x="959" y="503" type="curve" smooth="yes" name="dh01"/>
+      <point x="959" y="800"/>
+      <point x="1184" y="1020"/>
+      <point x="1488" y="1020" type="curve" smooth="yes" name="at01"/>
+      <point x="1789" y="1020"/>
+      <point x="2010" y="803"/>
+      <point x="2010" y="501" type="curve" name="sh01"/>
+      <point x="2010" y="500" type="line" name="dh03"/>
+      <point x="2010" y="414" type="line" name="dv03"/>
+    </contour>
+  </outline>
+</glyph>
