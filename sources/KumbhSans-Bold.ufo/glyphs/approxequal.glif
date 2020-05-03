@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="approxequal" format="1">
+  <unicode hex="2248"/>
+  <advance width="1360"/>
+  <outline>
+    <contour>
+      <point x="130" y="91" type="line" name="iv08"/>
+      <point x="206" y="173"/>
+      <point x="316" y="238"/>
+      <point x="431" y="238" type="curve" smooth="yes" name="sv07"/>
+      <point x="614" y="238"/>
+      <point x="735" y="74"/>
+      <point x="927" y="74" type="curve" smooth="yes" name="sv08"/>
+      <point x="1044" y="74"/>
+      <point x="1153" y="135"/>
+      <point x="1230" y="214" type="curve"/>
+      <point x="1230" y="440" type="line" name="iv07"/>
+      <point x="1156" y="364"/>
+      <point x="1055" y="296"/>
+      <point x="941" y="296" type="curve" smooth="yes" name="sv05"/>
+      <point x="766" y="296"/>
+      <point x="666" y="460"/>
+      <point x="445" y="460" type="curve" smooth="yes" name="sv06"/>
+      <point x="327" y="460"/>
+      <point x="211" y="394"/>
+      <point x="130" y="317" type="curve"/>
+    </contour>
+    <contour>
+      <point x="130" y="750" type="curve"/>
+      <point x="130" y="524" type="line" name="iv08"/>
+      <point x="206" y="606"/>
+      <point x="316" y="671"/>
+      <point x="431" y="671" type="curve" smooth="yes" name="sv07"/>
+      <point x="614" y="671"/>
+      <point x="735" y="507"/>
+      <point x="927" y="507" type="curve" smooth="yes" name="sv08"/>
+      <point x="1044" y="507"/>
+      <point x="1153" y="568"/>
+      <point x="1230" y="647" type="curve"/>
+      <point x="1230" y="873" type="line" name="iv07"/>
+      <point x="1156" y="797"/>
+      <point x="1055" y="729"/>
+      <point x="941" y="729" type="curve" smooth="yes" name="sv05"/>
+      <point x="766" y="729"/>
+      <point x="666" y="893"/>
+      <point x="445" y="893" type="curve" smooth="yes" name="sv06"/>
+      <point x="327" y="893"/>
+      <point x="211" y="827"/>
+    </contour>
+  </outline>
+</glyph>

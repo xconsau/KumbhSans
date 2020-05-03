@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <unicode hex="0065"/>
+  <advance width="1171" height="1660"/>
+  <outline>
+    <contour>
+      <point x="815" y="574" type="line"/>
+      <point x="787" y="691"/>
+      <point x="694" y="770"/>
+      <point x="573" y="770" type="curve" smooth="yes" name="sv02"/>
+      <point x="450" y="770"/>
+      <point x="353" y="689"/>
+      <point x="325" y="574" type="curve"/>
+    </contour>
+    <contour>
+      <point x="331" y="414" type="line"/>
+      <point x="367" y="303"/>
+      <point x="470" y="227"/>
+      <point x="600" y="227" type="curve" smooth="yes" name="dv02"/>
+      <point x="738" y="227"/>
+      <point x="822" y="276"/>
+      <point x="897" y="347" type="curve"/>
+      <point x="1071" y="139" type="line"/>
+      <point x="916" y="18"/>
+      <point x="762" y="-20"/>
+      <point x="624" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="293" y="-20"/>
+      <point x="60" y="200"/>
+      <point x="60" y="503" type="curve" smooth="yes" name="dh01"/>
+      <point x="60" y="800"/>
+      <point x="285" y="1020"/>
+      <point x="589" y="1020" type="curve" smooth="yes" name="at01"/>
+      <point x="890" y="1020"/>
+      <point x="1111" y="803"/>
+      <point x="1111" y="501" type="curve" name="sh01"/>
+      <point x="1111" y="500" type="line" name="dh03"/>
+      <point x="1111" y="414" type="line" name="dv03"/>
+    </contour>
+    <contour>
+      <point x="570" y="1020" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="804" y="-20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>870</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>130</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
