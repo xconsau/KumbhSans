@@ -6,6 +6,8 @@
   <integer>1540</integer>
   <key>capHeight</key>
   <integer>1500</integer>
+  <key>copyright</key>
+  <string>Copyright 2020 The KumbhSans Project Authors</string>
   <key>descender</key>
   <integer>-520</integer>
   <key>familyName</key>
@@ -25,6 +27,8 @@
   <integer>0</integer>
   <key>openTypeNameDesigner</key>
   <string>Saurabh Sharma</string>
+  <key>openTypeNameLicenseURL</key>
+  <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Kumbh Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -86,7 +90,7 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>2021</integer>
+  <integer>2048</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>918</integer>
   <key>postscriptBlueFuzz</key>
