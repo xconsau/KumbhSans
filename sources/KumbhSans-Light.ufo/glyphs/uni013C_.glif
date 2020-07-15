@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni013C" format="1">
+  <unicode hex="013C"/>
+  <advance width="489"/>
+  <outline>
+    <component base="l" xOffset="10"/>
+    <component base="commaaccent" xOffset="-26.4265"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-420</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
