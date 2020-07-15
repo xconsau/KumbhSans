@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="1">
+  <unicode hex="0134"/>
+  <advance width="496"/>
+  <outline>
+    <component base="J" xOffset="-20"/>
+    <component base="circumflex" xOffset="-202.5" yOffset="500"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>250</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

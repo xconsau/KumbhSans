@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <unicode hex="004F"/>
+  <advance width="1755" height="1706.48"/>
+  <outline>
+    <contour>
+      <point x="240" y="750" type="curve" smooth="yes"/>
+      <point x="240" y="1129"/>
+      <point x="508" y="1405"/>
+      <point x="877" y="1405" type="curve" smooth="yes"/>
+      <point x="1247" y="1405"/>
+      <point x="1515" y="1128"/>
+      <point x="1515" y="750" type="curve" smooth="yes"/>
+      <point x="1515" y="372"/>
+      <point x="1247" y="95"/>
+      <point x="877" y="95" type="curve" smooth="yes"/>
+      <point x="508" y="95"/>
+      <point x="240" y="371"/>
+    </contour>
+    <contour>
+      <point x="100" y="750" type="curve" smooth="yes"/>
+      <point x="100" y="299"/>
+      <point x="427" y="-30"/>
+      <point x="877" y="-30" type="curve" smooth="yes"/>
+      <point x="1328" y="-30"/>
+      <point x="1655" y="300"/>
+      <point x="1655" y="750" type="curve" smooth="yes"/>
+      <point x="1655" y="1201"/>
+      <point x="1328" y="1530"/>
+      <point x="877" y="1530" type="curve" smooth="yes"/>
+      <point x="427" y="1530"/>
+      <point x="100" y="1201"/>
+    </contour>
+    <contour>
+      <point x="877" y="1542" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1542</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>
