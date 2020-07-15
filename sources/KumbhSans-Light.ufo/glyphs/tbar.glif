@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <unicode hex="0167"/>
+  <advance width="723"/>
+  <outline>
+    <component base="t"/>
+    <contour>
+      <point x="110" y="570" type="line" name="sh07"/>
+      <point x="664" y="570" type="line" name="dv04"/>
+      <point x="664" y="470" type="line" name="dv03"/>
+      <point x="110" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="1042" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="403" y="-42" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
