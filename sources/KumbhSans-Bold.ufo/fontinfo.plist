@@ -28,7 +28,7 @@
   <key>openTypeNameDesigner</key>
   <string>Saurabh Sharma</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. -Licensed under the Apache License, Version 2.0. -Licensed under the Ubuntu Font Licence 1.0.</string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL.</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -87,6 +87,8 @@
     <integer>31</integer>
     <integer>62</integer>
   </array>
+  <key>openTypeOS2VendorID</key>
+  <string>XCON</string>
   <key>openTypeOS2WeightClass</key>
   <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
