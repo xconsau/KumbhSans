@@ -28,7 +28,7 @@
   <key>openTypeNameDesigner</key>
   <string>Saurabh Sharma</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. -Licensed under the Apache License, Version 2.0. -Licensed under the Ubuntu Font Licence 1.0.</string>
   <key>openTypeNameLicenseURL</key>
   <string>http://scripts.sil.org/OFL</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -52,7 +52,7 @@
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>600</integer>
   <key>openTypeOS2StrikeoutSize</key>
-  <integer>-205</integer>
+  <integer>120</integer>
   <key>openTypeOS2SubscriptXOffset</key>
   <integer>0</integer>
   <key>openTypeOS2SubscriptXSize</key>
@@ -77,7 +77,7 @@
   <key>openTypeOS2TypoDescender</key>
   <integer>-520</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>398</integer>
+  <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -160,7 +160,7 @@
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
-  <integer>102</integer>
+  <integer>120</integer>
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
