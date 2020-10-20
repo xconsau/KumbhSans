@@ -36,7 +36,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.000</string>
+  <string>Version 1.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -94,9 +94,9 @@
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>2056</integer>
+  <integer>2059</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>918</integer>
+  <integer>559</integer>
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
@@ -162,7 +162,7 @@
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
-  <integer>120</integer>
+  <integer>102</integer>
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
@@ -176,7 +176,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>
