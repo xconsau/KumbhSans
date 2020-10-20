@@ -29,6 +29,9 @@ at xconsau@gmail.com
 
 ChangeLog
 
+Kumbh Sans v1.001
+- Adjusted WinAscent and WinDescent values for proper vertical alignment with icons
+
 Kumbh Sans v1.000
 - Initial release of Regular, Bold and Light style
 
