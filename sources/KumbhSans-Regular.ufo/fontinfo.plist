@@ -38,7 +38,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.001</string>
+  <string>Version 1.002</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -174,7 +174,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>xHeight</key>
   <integer>1000</integer>
 </dict>
