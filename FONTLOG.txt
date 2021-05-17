@@ -10,27 +10,26 @@ Kumbh Sans fonts and any derivative works.
 Basic Font Information
 
 Kumbh Sans is a Geometric Sans Serif font envisioned to serve as a multi-purpose font in modern web and mobile applications. The anatomy is geometric with slight contrast. The font's cap-height vs x-height ratio is kept as 3:2 for optimum legibility at any point size. Kumbh Sans is designed
- to be used freely across the internet by web browsers on desktop computers, 
-laptops and mobile devices. 
+ to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.
 
 More specifically, this release supports the following 
 Unicode ranges: Latin-1
 
-There are 3 Source files inside the /sources/ folder:
+There is one DesignSpace-UFO Source file inside the /sources/ folder
 
-1. KumbhSans-Regular.ufo in original UFO format
-
-2. KumbhSans-Bold.ufo in original UFO format
-
-3. KumbhSans-Light.ufo in original UFO format
+- The file is in zip format. It will be required to extract it and then compile.
 
 To contribute to the project contact Saurabh Sharma
 at xconsau@gmail.com
 
 ChangeLog
 
-Kumbh Sans v1.001
-- Adjusted WinAscent and WinDescent values for proper vertical alignment with icons
+Kumbh Sans v1.003
+- Conversion into a Variable Font
+- Added optical axis (8-72) and weight axis (100-900)
+
+Kumbh Sans v1.002
+- Fixed vertical metrics
 
 Kumbh Sans v1.000
 - Initial release of Regular, Bold and Light style
