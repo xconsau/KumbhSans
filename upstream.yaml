@@ -32,8 +32,6 @@ designer: Saurabh Sharma
 files:
   # These are some examples as comments, please modify, add, delete as necessary:
   OFL.txt: OFL.txt
-  DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
+  documentation/DESCRIPTION.en_us.html: DESCRIPTION.en_us.html
   FONTLOG.txt: FONTLOG.txt
-  fonts/ttf/KumbhSans-Regular.ttf: KumbhSans-Regular.ttf
-  fonts/ttf/KumbhSans-Bold.ttf: KumbhSans-Bold.ttf
-  fonts/ttf/KumbhSans-Light.ttf: KumbhSans-Light.ttf
+  fonts/variable/KumbhSans[CTGO,wght].ttf: KumbhSans[CTGO,wght].ttf

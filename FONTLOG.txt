@@ -26,7 +26,7 @@ ChangeLog
 
 Kumbh Sans v1.003
 - Conversion into a Variable Font
-- Added optical axis (8-72) and weight axis (100-900)
+- Added weight axis (100-900) and custom contrast (geometric) axis (0%-100%)
 
 Kumbh Sans v1.002
 - Fixed vertical metrics
