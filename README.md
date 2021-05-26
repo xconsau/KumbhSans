@@ -1,9 +1,9 @@
 # Kumbh Sans
 
-![/images/promo1.jpg](/images/promo1.jpg)
-![/images/promo2.jpg](/images/promo2.jpg)
-![/images/promo3.jpg](/images/promo3.jpg)
-![/images/promo4.jpg](/images/promo4.jpg)
+![/images/p1.jpg](/images/p1.jpg)
+![/images/p2.jpg](/images/p2.jpg)
+![/images/p3.jpg](/images/p3.jpg)
+![/images/p4.jpg](/images/p4.jpg)
 
 * [/sources](sources/) contains source DesignSpace-UFO file in zip format
 
