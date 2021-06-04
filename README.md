@@ -18,10 +18,6 @@
     # Install dependencies
     pip install -r requirements.txt
 
-## Generate
-
-    sh sources/build.sh
-
 # License
 
 Fonts found in this repo are all available under the SIL Open Font License (OFL)
