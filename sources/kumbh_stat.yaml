@@ -1,12 +1,11 @@
-KumbhSans[CTGO,wght].ttf:
-      - name: Contrast(geometric)
-        tag: CTGO
+KumbhSans[YOPQ,wght].ttf:
+      - name: Thin Stroke
+        tag: YOPQ
         values:
-        - name: Low
-          value: 0
-          flags: 2
-        - name: High
+        - name: Normal
           value: 100
+          flags: 2
+
       - name: Weight
         tag: wght
         values:

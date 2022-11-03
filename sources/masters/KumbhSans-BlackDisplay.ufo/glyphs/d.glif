@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="1326"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="1206" y="0" type="line" name="dh01"/>
+      <point x="1206" y="1500" type="line" name="at01"/>
+      <point x="838" y="1500" type="line"/>
+      <point x="838" y="878" type="line"/>
+      <point x="758" y="967"/>
+      <point x="647" y="1020"/>
+      <point x="519" y="1020" type="curve" smooth="yes" name="at01.1"/>
+      <point x="258" y="1020"/>
+      <point x="70" y="800"/>
+      <point x="70" y="500" type="curve" smooth="yes" name="sh03"/>
+      <point x="70" y="200"/>
+      <point x="258" y="-20"/>
+      <point x="519" y="-20" type="curve" smooth="yes" name="dv01"/>
+      <point x="650" y="-20"/>
+      <point x="764" y="35"/>
+      <point x="844" y="129" type="curve"/>
+      <point x="883" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="689" y="86" type="curve" smooth="yes" name="dv02"/>
+      <point x="550" y="86"/>
+      <point x="448" y="258"/>
+      <point x="448" y="497" type="curve" smooth="yes" name="ah01"/>
+      <point x="448" y="736"/>
+      <point x="550" y="913"/>
+      <point x="689" y="913" type="curve" smooth="yes" name="sv01"/>
+      <point x="747" y="913"/>
+      <point x="798" y="883"/>
+      <point x="838" y="831" type="curve"/>
+      <point x="838" y="166" type="line" name="dh02"/>
+      <point x="798" y="115"/>
+      <point x="747" y="86"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>130</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

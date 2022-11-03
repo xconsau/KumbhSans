@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="1710"/>
+  <unicode hex="00D5"/>
+  <outline>
+    <contour>
+      <point x="1258" y="1981" type="curve"/>
+      <point x="1130" y="1981" type="line"/>
+      <point x="1126" y="1905"/>
+      <point x="1090" y="1865"/>
+      <point x="1028" y="1865" type="curve" smooth="yes"/>
+      <point x="979" y="1865"/>
+      <point x="941" y="1889"/>
+      <point x="898" y="1918" type="curve" smooth="yes"/>
+      <point x="847" y="1952"/>
+      <point x="788" y="1990"/>
+      <point x="690" y="1990" type="curve" smooth="yes" name="av01"/>
+      <point x="533" y="1990"/>
+      <point x="453" y="1889"/>
+      <point x="453" y="1696" type="curve"/>
+      <point x="581" y="1696" type="line"/>
+      <point x="585" y="1771"/>
+      <point x="626" y="1813"/>
+      <point x="695" y="1813" type="curve" smooth="yes"/>
+      <point x="749" y="1813"/>
+      <point x="788" y="1788"/>
+      <point x="830" y="1758" type="curve" smooth="yes"/>
+      <point x="877" y="1724"/>
+      <point x="932" y="1688"/>
+      <point x="1026" y="1688" type="curve" smooth="yes" name="av02"/>
+      <point x="1180" y="1688"/>
+      <point x="1258" y="1787"/>
+    </contour>
+    <contour>
+      <point x="856" y="-30" type="curve" smooth="yes" name="dv01"/>
+      <point x="1316" y="-30"/>
+      <point x="1650" y="303"/>
+      <point x="1650" y="750" type="curve" smooth="yes" name="sh03"/>
+      <point x="1650" y="1197"/>
+      <point x="1316" y="1530"/>
+      <point x="856" y="1530" type="curve" smooth="yes" name="at01"/>
+      <point x="396" y="1530"/>
+      <point x="60" y="1197"/>
+      <point x="60" y="750" type="curve" smooth="yes" name="sh01"/>
+      <point x="60" y="303"/>
+      <point x="396" y="-30"/>
+    </contour>
+    <contour>
+      <point x="856" y="315" type="curve" smooth="yes" name="dv02"/>
+      <point x="634" y="315"/>
+      <point x="465" y="505"/>
+      <point x="465" y="750" type="curve" smooth="yes" name="sh02"/>
+      <point x="465" y="995"/>
+      <point x="634" y="1185"/>
+      <point x="856" y="1185" type="curve" smooth="yes" name="sv01"/>
+      <point x="1078" y="1185"/>
+      <point x="1245" y="995"/>
+      <point x="1245" y="750" type="curve" smooth="yes" name="ah01"/>
+      <point x="1245" y="505"/>
+      <point x="1078" y="315"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1520</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>108</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

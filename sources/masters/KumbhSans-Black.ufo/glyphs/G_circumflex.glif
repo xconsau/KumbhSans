@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcircumflex" format="1">
+  <advance width="1632"/>
+  <unicode hex="011C"/>
+  <outline>
+    <contour>
+      <point x="1208" y="1660" type="line"/>
+      <point x="983" y="2000" type="line" name="at01.1"/>
+      <point x="689" y="2000" type="line" name="at01.1.1"/>
+      <point x="464" y="1660" type="line"/>
+      <point x="734" y="1660" type="line" name="av01"/>
+      <point x="835" y="1852" type="line"/>
+      <point x="937" y="1660" type="line" name="av01.1"/>
+    </contour>
+    <contour>
+      <point x="1149" y="1067" type="curve"/>
+      <point x="1404" y="1322" type="line"/>
+      <point x="1248" y="1455"/>
+      <point x="1045" y="1530"/>
+      <point x="838" y="1530" type="curve" smooth="yes" name="at01"/>
+      <point x="398" y="1530"/>
+      <point x="60" y="1191"/>
+      <point x="60" y="754" type="curve" smooth="yes" name="sh01"/>
+      <point x="60" y="310"/>
+      <point x="408" y="-30"/>
+      <point x="855" y="-30" type="curve" smooth="yes" name="dv01"/>
+      <point x="1283" y="-30"/>
+      <point x="1572" y="282"/>
+      <point x="1572" y="739" type="curve"/>
+      <point x="1561" y="890" type="line"/>
+      <point x="854" y="890" type="line"/>
+      <point x="854" y="590" type="line"/>
+      <point x="1213" y="590" type="line"/>
+      <point x="1171" y="413"/>
+      <point x="1052" y="315"/>
+      <point x="871" y="315" type="curve" smooth="yes" name="dv02"/>
+      <point x="628" y="315"/>
+      <point x="465" y="493"/>
+      <point x="465" y="760" type="curve" smooth="yes" name="sh02"/>
+      <point x="465" y="1020"/>
+      <point x="618" y="1185"/>
+      <point x="849" y="1185" type="curve" smooth="yes" name="sv01"/>
+      <point x="969" y="1185"/>
+      <point x="1077" y="1141"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+  <advance width="569"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="284" y="1188" type="curve" smooth="yes"/>
+      <point x="374" y="1188"/>
+      <point x="445" y="1259"/>
+      <point x="445" y="1349" type="curve" smooth="yes"/>
+      <point x="445" y="1438"/>
+      <point x="374" y="1510"/>
+      <point x="284" y="1510" type="curve" smooth="yes"/>
+      <point x="194" y="1510"/>
+      <point x="125" y="1438"/>
+      <point x="125" y="1349" type="curve" smooth="yes"/>
+      <point x="125" y="1259"/>
+      <point x="194" y="1188"/>
+    </contour>
+    <contour>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="1000" type="line"/>
+      <point x="100" y="1000" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="314.07" y="0" type="line" name="ab01"/>
+      <point x="199.594" y="-49.8434"/>
+      <point x="128.5" y="-138.545"/>
+      <point x="128.5" y="-232" type="curve" smooth="yes"/>
+      <point x="128.5" y="-343"/>
+      <point x="232.5" y="-416"/>
+      <point x="388.5" y="-416" type="curve" name="av01"/>
+      <point x="417.5" y="-238" type="line"/>
+      <point x="352.5" y="-238"/>
+      <point x="303.5" y="-199"/>
+      <point x="303.5" y="-145" type="curve" smooth="yes"/>
+      <point x="303.5" y="-92.0904"/>
+      <point x="353.488" y="-34.5659"/>
+      <point x="431.178" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1227</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

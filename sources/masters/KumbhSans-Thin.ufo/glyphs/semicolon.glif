@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="453"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="256" y="880" type="curve" smooth="yes"/>
+      <point x="284.571" y="880"/>
+      <point x="306" y="901.429"/>
+      <point x="306" y="930" type="curve" smooth="yes"/>
+      <point x="306" y="957.381"/>
+      <point x="284.571" y="980"/>
+      <point x="256" y="980" type="curve" smooth="yes"/>
+      <point x="227.429" y="980"/>
+      <point x="206" y="957.381"/>
+      <point x="206" y="930" type="curve" smooth="yes"/>
+      <point x="206" y="901.429"/>
+      <point x="227.429" y="880"/>
+    </contour>
+    <contour>
+      <point x="181" y="-240" type="line"/>
+      <point x="298" y="180" type="line"/>
+      <point x="249" y="180" type="line" name="av01"/>
+      <point x="145" y="-240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>250</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

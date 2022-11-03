@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="1215"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="1060" y="1070" type="line"/>
+      <point x="1205" y="1520" type="line"/>
+      <point x="955" y="1520" type="line" name="av01"/>
+      <point x="854" y="1070" type="line"/>
+    </contour>
+    <contour>
+      <point x="878" y="28" type="curve"/>
+      <point x="832" y="348" type="line"/>
+      <point x="796" y="323"/>
+      <point x="756" y="310"/>
+      <point x="718" y="310" type="curve" smooth="yes"/>
+      <point x="640" y="310"/>
+      <point x="574" y="363"/>
+      <point x="574" y="466" type="curve" smooth="yes"/>
+      <point x="574" y="671" type="line"/>
+      <point x="837" y="671" type="line"/>
+      <point x="837" y="1000" type="line"/>
+      <point x="574" y="1000" type="line"/>
+      <point x="574" y="1250" type="line"/>
+      <point x="225" y="1250" type="line"/>
+      <point x="225" y="1000" type="line"/>
+      <point x="30" y="1000" type="line"/>
+      <point x="30" y="671" type="line"/>
+      <point x="205" y="671" type="line"/>
+      <point x="205" y="399" type="line" smooth="yes"/>
+      <point x="205" y="150"/>
+      <point x="381" y="-20"/>
+      <point x="637" y="-20" type="curve" smooth="yes"/>
+      <point x="713" y="-20"/>
+      <point x="794" y="-4"/>
+    </contour>
+  </outline>
+</glyph>
