@@ -2,7 +2,6 @@ sources:
   - KumbhSans.designspace
 familyName: "Kumbh Sans"
 buildOTF: false
-buildTTF: false
 axisOrder:
   - YOPQ
   - wght
