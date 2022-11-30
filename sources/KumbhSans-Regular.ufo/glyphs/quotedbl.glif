@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="784"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="279" y="1085" type="line"/>
+      <point x="296" y="1520" type="line"/>
+      <point x="165" y="1520" type="line"/>
+      <point x="182" y="1085" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="1085" type="line"/>
+      <point x="619" y="1520" type="line"/>
+      <point x="488" y="1520" type="line"/>
+      <point x="505" y="1085" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>1996</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="1326"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="1206" y="-500" type="line" name="at01"/>
+      <point x="1206" y="1000" type="line" name="dh01"/>
+      <point x="883" y="1000" type="line"/>
+      <point x="844" y="871" type="line"/>
+      <point x="764" y="965"/>
+      <point x="650" y="1020"/>
+      <point x="519" y="1020" type="curve" smooth="yes" name="dv01"/>
+      <point x="258" y="1020"/>
+      <point x="70" y="800"/>
+      <point x="70" y="500" type="curve" smooth="yes" name="sh03"/>
+      <point x="70" y="200"/>
+      <point x="258" y="-20"/>
+      <point x="519" y="-20" type="curve" smooth="yes" name="at01"/>
+      <point x="647" y="-20"/>
+      <point x="758" y="33"/>
+      <point x="838" y="122" type="curve"/>
+      <point x="838" y="-500" type="line"/>
+    </contour>
+    <contour>
+      <point x="689" y="87" type="curve" smooth="yes" name="sv01"/>
+      <point x="550" y="87"/>
+      <point x="448" y="264"/>
+      <point x="448" y="503" type="curve" smooth="yes" name="ah01"/>
+      <point x="448" y="742"/>
+      <point x="550" y="914"/>
+      <point x="689" y="914" type="curve" smooth="yes" name="dv02"/>
+      <point x="747" y="914"/>
+      <point x="798" y="885"/>
+      <point x="838" y="834" type="curve" name="dh02"/>
+      <point x="838" y="169" type="line"/>
+      <point x="798" y="117"/>
+      <point x="747" y="87"/>
+    </contour>
+  </outline>
+</glyph>

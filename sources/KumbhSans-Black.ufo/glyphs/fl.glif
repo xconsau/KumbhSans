@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+  <advance width="1487"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <contour>
+      <point x="1387" y="0" type="line"/>
+      <point x="1387" y="986" type="line" smooth="yes" name="av01"/>
+      <point x="1387" y="1309"/>
+      <point x="1149" y="1530"/>
+      <point x="801" y="1530" type="curve" smooth="yes"/>
+      <point x="459" y="1530"/>
+      <point x="215" y="1315"/>
+      <point x="215" y="1016" type="curve" smooth="yes"/>
+      <point x="215" y="1000" type="line"/>
+      <point x="40" y="1000" type="line"/>
+      <point x="40" y="670" type="line"/>
+      <point x="215" y="670" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+      <point x="584" y="670" type="line"/>
+      <point x="876" y="670" type="line"/>
+      <point x="876" y="1000" type="line"/>
+      <point x="584" y="1000" type="line"/>
+      <point x="584" y="1012" type="line" smooth="yes"/>
+      <point x="584" y="1133"/>
+      <point x="674" y="1220"/>
+      <point x="804" y="1220" type="curve" smooth="yes"/>
+      <point x="933" y="1220"/>
+      <point x="1018" y="1134"/>
+      <point x="1018" y="998" type="curve" smooth="yes" name="dh01"/>
+      <point x="1018" y="0" type="line" name="ab01"/>
+    </contour>
+  </outline>
+</glyph>

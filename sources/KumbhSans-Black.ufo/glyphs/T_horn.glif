@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1242"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="470" y="0" type="line" name="ab01.1"/>
+      <point x="470" y="290" type="line"/>
+      <point x="645" y="290" type="line" smooth="yes" name="dv01"/>
+      <point x="956" y="290"/>
+      <point x="1162" y="475"/>
+      <point x="1162" y="754" type="curve" smooth="yes" name="dh03"/>
+      <point x="1162" y="1031"/>
+      <point x="959" y="1210"/>
+      <point x="645" y="1210" type="curve" smooth="yes" name="sv02"/>
+      <point x="470" y="1210" type="line"/>
+      <point x="470" y="1500" type="line" name="dh01.1"/>
+      <point x="100" y="1500" type="line" name="at01.1"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="620" type="line"/>
+      <point x="470" y="880" type="line"/>
+      <point x="563" y="880" type="line" smooth="yes" name="sv01"/>
+      <point x="714" y="880"/>
+      <point x="784" y="839"/>
+      <point x="784" y="750" type="curve" smooth="yes" name="dh02"/>
+      <point x="784" y="661"/>
+      <point x="714" y="620"/>
+      <point x="564" y="620" type="curve" smooth="yes" name="dv02"/>
+    </contour>
+  </outline>
+</glyph>
