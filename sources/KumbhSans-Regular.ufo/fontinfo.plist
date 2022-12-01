@@ -38,9 +38,9 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Kumbh Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Black</string>
+  <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.003</string>
+  <string>Version 1.004</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -107,7 +107,7 @@
   <key>openTypeOS2VendorID</key>
   <string>XCON</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>900</integer>
+  <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -122,7 +122,7 @@
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-30</integer>
+    <integer>-20</integer>
     <integer>0</integer>
     <integer>1000</integer>
     <integer>1020</integer>
@@ -144,45 +144,45 @@
     <integer>-500</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>KumbhSans-Black</string>
+  <string>KumbhSans-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Kumbh Sans Black</string>
+  <string>Kumbh Sans Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
   <array>
+    <real>2.64175</real>
+    <real>32.6418</real>
     <integer>-520</integer>
     <integer>-500</integer>
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>177</integer>
-    <integer>120</integer>
-    <integer>140</integer>
-    <integer>205</integer>
+    <integer>156</integer>
+    <integer>89</integer>
+    <integer>100</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>250</integer>
-    <integer>128</integer>
-    <integer>150</integer>
-    <integer>175</integer>
-    <integer>200</integer>
+    <integer>176</integer>
+    <integer>102</integer>
+    <integer>146</integer>
+    <integer>164</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
   <key>postscriptWeightName</key>
-  <string>Black</string>
+  <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Kumbh Sans Black</string>
+  <string>Kumbh Sans</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Black</string>
+  <string>Regular</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>

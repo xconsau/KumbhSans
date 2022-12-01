@@ -38,9 +38,9 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Kumbh Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Thin Display</string>
+  <string>Black</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.003</string>
+  <string>Version 1.004</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -107,7 +107,7 @@
   <key>openTypeOS2VendorID</key>
   <string>XCON</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>100</integer>
+  <integer>900</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -144,11 +144,11 @@
     <integer>-500</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>KumbhSans-ThinDisplay</string>
+  <string>KumbhSans-Black</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Kumbh Sans Thin Display</string>
+  <string>Kumbh Sans Black</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -158,27 +158,31 @@
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>38</integer>
-    <integer>42</integer>
-    <integer>100</integer>
+    <integer>177</integer>
+    <integer>120</integer>
+    <integer>140</integer>
+    <integer>205</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>41</integer>
-    <integer>44</integer>
+    <integer>250</integer>
+    <integer>128</integer>
+    <integer>150</integer>
+    <integer>175</integer>
+    <integer>200</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
   <key>postscriptWeightName</key>
-  <string>Thin</string>
+  <string>Black</string>
   <key>styleMapFamilyName</key>
-  <string>Kumbh Sans Thin Display</string>
+  <string>Kumbh Sans Black</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Thin Display</string>
+  <string>Black</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>

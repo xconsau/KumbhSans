@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
+    </axis>
+    <axis tag="YOPQ" name="Thin Stroke" minimum="40" maximum="300" default="300">
+    </axis>
+  </axes>
+  <sources>
+    <source filename="KumbhSans-Regular.ufo" familyname="Kumbh Sans" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-BlackDisplay.ufo">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Thin Stroke" xvalue="40"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-Display.ufo">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Thin Stroke" xvalue="40"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-Thin.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-ThinDisplay.ufo">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Thin Stroke" xvalue="40"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance filename="instances/KumbhSans-Thin.ufo" stylename="Thin" familyname="Kumbh Sans" name="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-ExtraLight.ufo" stylename="ExtraLight" familyname="Kumbh Sans" name="ExtraLight">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-Light.ufo" stylename="Light" familyname="Kumbh Sans" name="Light">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-Regular.ufo" stylename="Regular" familyname="Kumbh Sans" name="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-Medium.ufo" stylename="Medium" familyname="Kumbh Sans" name="Medium">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-SemiBold.ufo" stylename="SemiBold" familyname="Kumbh Sans" name="SemiBold">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-Bold.ufo" stylename="Bold" familyname="Kumbh Sans" name="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-ExtraBold.ufo" stylename="ExtraBold" familyname="Kumbh Sans" name="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+    <instance filename="instances/KumbhSans-Black.ufo" stylename="Black" familyname="Kumbh Sans" name="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Thin Stroke" xvalue="300"/>
+      </location>
+    </instance>
+  </instances>
+  </designspace>

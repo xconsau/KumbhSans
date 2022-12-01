@@ -38,9 +38,9 @@
   <key>openTypeNamePreferredFamilyName</key>
   <string>Kumbh Sans</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Black Display</string>
+  <string>Thin</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.003</string>
+  <string>Version 1.004</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -107,7 +107,7 @@
   <key>openTypeOS2VendorID</key>
   <string>XCON</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>900</integer>
+  <integer>100</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -144,11 +144,11 @@
     <integer>-500</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>KumbhSans-BlackDisplay</string>
+  <string>KumbhSans-Thin</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Kumbh Sans Black Display</string>
+  <string>Kumbh Sans Thin</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
@@ -158,36 +158,27 @@
   </array>
   <key>postscriptStemSnapH</key>
   <array>
-    <integer>42</integer>
     <integer>38</integer>
-    <integer>60</integer>
-    <integer>65</integer>
-    <integer>106</integer>
-    <integer>153</integer>
-    <integer>177</integer>
-    <integer>205</integer>
+    <integer>42</integer>
+    <integer>100</integer>
   </array>
   <key>postscriptStemSnapV</key>
   <array>
-    <integer>250</integer>
+    <integer>41</integer>
     <integer>44</integer>
-    <integer>128</integer>
-    <integer>150</integer>
-    <integer>167</integer>
-    <integer>200</integer>
   </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
   <key>postscriptWeightName</key>
-  <string>Black</string>
+  <string>Thin</string>
   <key>styleMapFamilyName</key>
-  <string>Kumbh Sans Black Display</string>
+  <string>Kumbh Sans Thin</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Black Display</string>
+  <string>Thin</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
