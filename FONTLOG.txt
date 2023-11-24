@@ -24,6 +24,12 @@ at xconsau@gmail.com
 
 ChangeLog
 
+Kumbh Sans v1.005
+- Fixed: Interpolation errors in some glyphs like the arrowup, arrowdown, guillemotleft and infinity
+
+Kumbh Sans v1.004
+- The Thin Stroke axis YOPQ made available
+
 Kumbh Sans v1.003
 - Conversion into a Variable Font
 - Added weight axis (100-900) and custom contrast (geometric) axis (0%-100%)
