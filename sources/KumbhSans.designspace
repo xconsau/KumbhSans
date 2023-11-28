@@ -1,107 +1,105 @@
-<?xml version='1.0' encoding='utf-8'?>
-<designspace format="4.1">
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400">
-    </axis>
-    <axis tag="YOPQ" name="Thin Stroke" minimum="40" maximum="300" default="300">
-    </axis>
+    <axis tag="YOPQ" name="Thin Stroke" minimum="40" maximum="300" default="300"/>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
   </axes>
   <sources>
-    <source filename="KumbhSans-Regular.ufo" familyname="Kumbh Sans" stylename="Regular" name="Kumbh Sans Regular">
+    <source filename="KumbhSans-Regular.ufo" name="Kumbh Sans Regular" familyname="Kumbh Sans" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="400"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </source>
-    <source filename="KumbhSans-Black.ufo" name="Kumbh Sans Black">
+    <source filename="KumbhSans-Display.ufo" name="Kumbh Sans Display" familyname="Kumbh Sans" stylename="Display">
       <location>
-        <dimension name="Weight" xvalue="900"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
-      </location>
-    </source>
-    <source filename="KumbhSans-BlackDisplay.ufo" name="Kumbh Sans Black Display">
-      <location>
-        <dimension name="Weight" xvalue="900"/>
         <dimension name="Thin Stroke" xvalue="40"/>
-      </location>
-    </source>
-    <source filename="KumbhSans-Display.ufo" name="Kumbh Sans Display">
-      <location>
         <dimension name="Weight" xvalue="400"/>
-        <dimension name="Thin Stroke" xvalue="40"/>
       </location>
     </source>
-    <source filename="KumbhSans-Thin.ufo" name="Kumbh Sans Thin">
+    <source filename="KumbhSans-Black.ufo" name="Kumbh Sans Black" familyname="Kumbh Sans" stylename="Black">
       <location>
-        <dimension name="Weight" xvalue="100"/>
         <dimension name="Thin Stroke" xvalue="300"/>
+        <dimension name="Weight" xvalue="900"/>
       </location>
     </source>
-    <source filename="KumbhSans-ThinDisplay.ufo" name="Kumbh Sans Thin Display">
+    <source filename="KumbhSans-BlackDisplay.ufo" name="Kumbh Sans Black Display" familyname="Kumbh Sans" stylename="Black Display">
       <location>
-        <dimension name="Weight" xvalue="100"/>
         <dimension name="Thin Stroke" xvalue="40"/>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-Thin.ufo" name="Kumbh Sans Thin" familyname="Kumbh Sans" stylename="Thin">
+      <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="KumbhSans-ThinDisplay.ufo" name="Kumbh Sans Thin Display" familyname="Kumbh Sans" stylename="Thin Display">
+      <location>
+        <dimension name="Thin Stroke" xvalue="40"/>
+        <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance filename="instances/KumbhSans-Thin.ufo" stylename="Thin" familyname="Kumbh Sans" name="Kumbh Sans Thin">
+    <instance name="Kumbh Sans Thin" familyname="Kumbh Sans" stylename="Thin" filename="instance_ufo/KumbhSans-Thin.ufo" stylemapfamilyname="Kumbh Sans Thin" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="100"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-ExtraLight.ufo" stylename="ExtraLight" familyname="Kumbh Sans" name="Kumbh Sans ExtraLight">
+    <instance name="Kumbh Sans ExtraLight" familyname="Kumbh Sans" stylename="ExtraLight" filename="instance_ufo/KumbhSans-ExtraLight.ufo" stylemapfamilyname="Kumbh Sans ExtraLight" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="200"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-Light.ufo" stylename="Light" familyname="Kumbh Sans" name="Kumbh Sans Light">
+    <instance name="Kumbh Sans Light" familyname="Kumbh Sans" stylename="Light" filename="instance_ufo/KumbhSans-Light.ufo" stylemapfamilyname="Kumbh Sans Light" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="300"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-Regular.ufo" stylename="Regular" familyname="Kumbh Sans" name="Kumbh Sans Regular">
+    <instance name="Kumbh Sans Regular" familyname="Kumbh Sans" stylename="Regular" filename="instance_ufo/KumbhSans-Regular.ufo" stylemapfamilyname="Kumbh Sans" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="400"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-Medium.ufo" stylename="Medium" familyname="Kumbh Sans" name="Kumbh Sans Medium">
+    <instance name="Kumbh Sans Medium" familyname="Kumbh Sans" stylename="Medium" filename="instance_ufo/KumbhSans-Medium.ufo" stylemapfamilyname="Kumbh Sans Medium" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="500"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-SemiBold.ufo" stylename="SemiBold" familyname="Kumbh Sans" name="Kumbh Sans SemiBold">
+    <instance name="Kumbh Sans SemiBold" familyname="Kumbh Sans" stylename="SemiBold" filename="instance_ufo/KumbhSans-SemiBold.ufo" stylemapfamilyname="Kumbh Sans SemiBold" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="600"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-Bold.ufo" stylename="Bold" familyname="Kumbh Sans" name="Kumbh Sans Bold">
+    <instance name="Kumbh Sans Bold" familyname="Kumbh Sans" stylename="Bold" filename="instance_ufo/KumbhSans-Bold.ufo" stylemapfamilyname="Kumbh Sans" stylemapstylename="bold">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="700"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-ExtraBold.ufo" stylename="ExtraBold" familyname="Kumbh Sans" name="Kumbh Sans ExtraBold">
+    <instance name="Kumbh Sans ExtraBold" familyname="Kumbh Sans" stylename="ExtraBold" filename="instance_ufo/KumbhSans-ExtraBold.ufo" stylemapfamilyname="Kumbh Sans ExtraBold" stylemapstylename="regular">
       <location>
+        <dimension name="Thin Stroke" xvalue="300"/>
         <dimension name="Weight" xvalue="800"/>
-        <dimension name="Thin Stroke" xvalue="300"/>
       </location>
     </instance>
-    <instance filename="instances/KumbhSans-Black.ufo" stylename="Black" familyname="Kumbh Sans" name="Kumbh Sans Black">
+    <instance name="Kumbh Sans Black" familyname="Kumbh Sans" stylename="Black" filename="instance_ufo/KumbhSans-Black.ufo" stylemapfamilyname="Kumbh Sans Black" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="900"/>
         <dimension name="Thin Stroke" xvalue="300"/>
+        <dimension name="Weight" xvalue="900"/>
       </location>
     </instance>
   </instances>
-  </designspace>
+</designspace>
