@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="longs_t" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_t.liga" format="2">
   <advance width="1390"/>
-  <unicode hex="FB05"/>
   <outline>
     <contour>
       <point x="341" y="0" type="line"/>

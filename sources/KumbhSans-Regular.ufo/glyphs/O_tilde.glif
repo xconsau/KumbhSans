@@ -1,90 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Otilde" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
   <advance width="1729"/>
   <unicode hex="00D5"/>
+  <anchor x="865" y="0" name="bottom"/>
+  <anchor x="865" y="750" name="center"/>
+  <anchor x="1556" y="10" name="ogonek"/>
+  <anchor x="865" y="1957" name="top"/>
+  <anchor x="20" y="1500" name="topleft"/>
+  <anchor x="1709" y="1500" name="topright"/>
   <outline>
-    <contour>
-      <point x="1198" y="1947" type="curve"/>
-      <point x="1124" y="1947" type="line"/>
-      <point x="1113" y="1873"/>
-      <point x="1075" y="1833"/>
-      <point x="1014" y="1833" type="curve" smooth="yes"/>
-      <point x="964" y="1833"/>
-      <point x="928" y="1859"/>
-      <point x="890" y="1888" type="curve" smooth="yes"/>
-      <point x="847" y="1921"/>
-      <point x="797" y="1957"/>
-      <point x="718" y="1957" type="curve" smooth="yes"/>
-      <point x="607" y="1957"/>
-      <point x="542" y="1886"/>
-      <point x="530" y="1752" type="curve"/>
-      <point x="604" y="1752" type="line"/>
-      <point x="615" y="1826"/>
-      <point x="657" y="1868"/>
-      <point x="720" y="1868" type="curve" smooth="yes"/>
-      <point x="771" y="1868"/>
-      <point x="808" y="1841"/>
-      <point x="839" y="1816" type="curve" smooth="yes"/>
-      <point x="897" y="1770"/>
-      <point x="941" y="1742"/>
-      <point x="1008" y="1742" type="curve" smooth="yes"/>
-      <point x="1118" y="1742"/>
-      <point x="1187" y="1816"/>
-    </contour>
-    <contour>
-      <point x="865" y="-30" type="curve" smooth="yes"/>
-      <point x="1315" y="-30"/>
-      <point x="1644" y="301"/>
-      <point x="1644" y="750" type="curve" smooth="yes"/>
-      <point x="1644" y="1200"/>
-      <point x="1315" y="1530"/>
-      <point x="865" y="1530" type="curve" smooth="yes"/>
-      <point x="414" y="1530"/>
-      <point x="85" y="1200"/>
-      <point x="85" y="750" type="curve" smooth="yes"/>
-      <point x="85" y="301"/>
-      <point x="414" y="-30"/>
-    </contour>
-    <contour>
-      <point x="865" y="126" type="curve" smooth="yes"/>
-      <point x="520" y="126"/>
-      <point x="265" y="392"/>
-      <point x="265" y="750" type="curve" smooth="yes"/>
-      <point x="265" y="1108"/>
-      <point x="520" y="1374"/>
-      <point x="865" y="1374" type="curve" smooth="yes"/>
-      <point x="1210" y="1374"/>
-      <point x="1464" y="1108"/>
-      <point x="1464" y="750" type="curve" smooth="yes"/>
-      <point x="1464" y="393"/>
-      <point x="1210" y="126"/>
-    </contour>
+    <component base="O"/>
+    <component base="tildecomb" xOffset="376" yOffset="500"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1542</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>109</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

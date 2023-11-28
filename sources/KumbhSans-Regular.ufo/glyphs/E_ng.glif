@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eng" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
   <advance width="1615"/>
   <unicode hex="014A"/>
   <outline>
@@ -27,27 +27,10 @@
       <point x="862.518" y="534.528" type="line" smooth="yes"/>
       <point x="958.839" y="409.401"/>
       <point x="1197.74" y="114.703"/>
-      <point x="1271.79" y="29.6602" type="curve"/>
+      <point x="1271.79" y="29.66" type="curve"/>
       <point x="1253.25" y="-123.739"/>
       <point x="1132.47" y="-205"/>
       <point x="923" y="-205" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>236</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

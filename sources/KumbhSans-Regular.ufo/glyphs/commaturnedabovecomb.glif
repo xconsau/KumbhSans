@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaturnedabovecomb" format="1">
-  <advance width="683"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
   <unicode hex="0312"/>
+  <anchor x="629" y="1000" name="_top"/>
+  <anchor x="629" y="1620" name="top"/>
+  <outline>
+    <contour>
+      <point x="643" y="1170" type="line" name="av01"/>
+      <point x="744" y="1620" type="line"/>
+      <point x="638" y="1620" type="line"/>
+      <point x="513" y="1170" type="line"/>
+    </contour>
+  </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1257</integer>
+    </dict>
   </lib>
 </glyph>

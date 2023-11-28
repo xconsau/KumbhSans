@@ -1,78 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Obreve" format="1">
-  <advance width="1728"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance width="1729"/>
   <unicode hex="014E"/>
+  <anchor x="865" y="0" name="bottom"/>
+  <anchor x="865" y="750" name="center"/>
+  <anchor x="1556" y="10" name="ogonek"/>
+  <anchor x="865" y="2000" name="top"/>
+  <anchor x="20" y="1500" name="topleft"/>
+  <anchor x="1709" y="1500" name="topright"/>
   <outline>
-    <contour>
-      <point x="1172" y="2000" type="curve" name="at01"/>
-      <point x="1070" y="2000" type="line" name="ah01"/>
-      <point x="1070" y="1866"/>
-      <point x="984" y="1773"/>
-      <point x="863" y="1773" type="curve" smooth="yes"/>
-      <point x="742" y="1773"/>
-      <point x="657" y="1866"/>
-      <point x="657" y="2000" type="curve" name="sh01"/>
-      <point x="554" y="2000" type="line" name="at02"/>
-      <point x="554" y="1818"/>
-      <point x="683" y="1685"/>
-      <point x="863" y="1685" type="curve" smooth="yes" name="av01"/>
-      <point x="1043" y="1685"/>
-      <point x="1172" y="1818"/>
-    </contour>
-    <contour>
-      <point x="865" y="-30" type="curve" smooth="yes"/>
-      <point x="1315" y="-30"/>
-      <point x="1643" y="301"/>
-      <point x="1643" y="750" type="curve" smooth="yes"/>
-      <point x="1643" y="1200"/>
-      <point x="1315" y="1530"/>
-      <point x="865" y="1530" type="curve" smooth="yes"/>
-      <point x="414" y="1530"/>
-      <point x="85" y="1200"/>
-      <point x="85" y="750" type="curve" smooth="yes"/>
-      <point x="85" y="301"/>
-      <point x="414" y="-30"/>
-    </contour>
-    <contour>
-      <point x="864" y="126" type="curve" smooth="yes"/>
-      <point x="519" y="126"/>
-      <point x="265" y="392"/>
-      <point x="265" y="750" type="curve" smooth="yes"/>
-      <point x="265" y="1108"/>
-      <point x="519" y="1374"/>
-      <point x="864" y="1374" type="curve" smooth="yes"/>
-      <point x="1209" y="1374"/>
-      <point x="1463" y="1108"/>
-      <point x="1463" y="750" type="curve" smooth="yes"/>
-      <point x="1463" y="393"/>
-      <point x="1209" y="126"/>
-    </contour>
+    <component base="O"/>
+    <component base="brevecomb" xOffset="401" yOffset="500"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1520</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1542</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

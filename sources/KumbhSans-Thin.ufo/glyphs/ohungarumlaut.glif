@@ -1,47 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohungarumlaut" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohungarumlaut" format="2">
   <advance width="1230"/>
   <unicode hex="0151"/>
+  <anchor x="615" y="0" name="bottom"/>
+  <anchor x="615" y="500" name="center"/>
+  <anchor x="1107" y="10" name="ogonek"/>
+  <anchor x="615" y="1500" name="top"/>
+  <anchor x="1210" y="1000" name="topright"/>
   <outline>
-    <contour>
-      <point x="434.325" y="1170" type="line"/>
-      <point x="625.325" y="1500" type="line"/>
-      <point x="571.325" y="1500" type="line"/>
-      <point x="400.325" y="1170" type="line"/>
-    </contour>
-    <contour>
-      <point x="785.325" y="1170" type="line"/>
-      <point x="976.325" y="1500" type="line"/>
-      <point x="922.325" y="1500" type="line"/>
-      <point x="751.325" y="1170" type="line"/>
-    </contour>
-    <contour>
-      <point x="616" y="-20" type="curve" smooth="yes"/>
-      <point x="905" y="-20"/>
-      <point x="1125" y="205"/>
-      <point x="1125" y="500" type="curve" smooth="yes"/>
-      <point x="1125" y="795"/>
-      <point x="905" y="1020"/>
-      <point x="616" y="1020" type="curve" smooth="yes"/>
-      <point x="326" y="1020"/>
-      <point x="105" y="796"/>
-      <point x="105" y="500" type="curve" smooth="yes"/>
-      <point x="105" y="204"/>
-      <point x="326" y="-20"/>
-    </contour>
-    <contour>
-      <point x="616" y="18" type="curve" smooth="yes"/>
-      <point x="349" y="18"/>
-      <point x="147" y="226"/>
-      <point x="147" y="500" type="curve" smooth="yes"/>
-      <point x="147" y="774"/>
-      <point x="349" y="982"/>
-      <point x="616" y="982" type="curve" smooth="yes"/>
-      <point x="881" y="982"/>
-      <point x="1083" y="774"/>
-      <point x="1083" y="500" type="curve" smooth="yes"/>
-      <point x="1083" y="226"/>
-      <point x="881" y="18"/>
-    </contour>
+    <component base="o"/>
+    <component base="hungarumlautcomb" xOffset="300"/>
   </outline>
 </glyph>

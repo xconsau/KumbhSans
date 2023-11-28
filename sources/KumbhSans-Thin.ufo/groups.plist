@@ -96,7 +96,6 @@
     </array>
     <key>public.kern1.Omega1_1st</key>
     <array>
-      <string>Omega</string>
       <string>uni03A9</string>
     </array>
     <key>public.kern1.S1_1st</key>
@@ -106,7 +105,6 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scircumflex</string>
-      <string>uni0218</string>
     </array>
     <key>public.kern1.T1_1st</key>
     <array>
@@ -189,8 +187,8 @@
     <key>public.kern1.comma1_1st</key>
     <array>
       <string>comma</string>
-      <string>quotedblbase</string>
       <string>quotesinglbase</string>
+      <string>quotedblbase</string>
     </array>
     <key>public.kern1.dieresis1_1st</key>
     <array>
@@ -231,12 +229,11 @@
       <string>gbreve</string>
       <string>gcircumflex</string>
       <string>gdotaccent</string>
-      <string>uni0123</string>
     </array>
     <key>public.kern1.grave_1st</key>
     <array>
-      <string>circumflex</string>
       <string>grave</string>
+      <string>circumflex</string>
     </array>
     <key>public.kern1.guillemotleft1_1st</key>
     <array>
@@ -255,8 +252,8 @@
     </array>
     <key>public.kern1.i1_1st</key>
     <array>
-      <string>dotlessi</string>
       <string>i</string>
+      <string>idotless</string>
       <string>iacute</string>
       <string>icircumflex</string>
       <string>idieresis</string>
@@ -271,7 +268,6 @@
       <string>ij</string>
       <string>j</string>
       <string>jcircumflex</string>
-      <string>uni0237</string>
     </array>
     <key>public.kern1.l_1st</key>
     <array>
@@ -280,9 +276,9 @@
     </array>
     <key>public.kern1.minus1_1st</key>
     <array>
-      <string>emdash</string>
-      <string>endash</string>
       <string>hyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
       <string>minus</string>
     </array>
     <key>public.kern1.n_1st</key>
@@ -307,8 +303,8 @@
     </array>
     <key>public.kern1.period1_1st</key>
     <array>
-      <string>ellipsis</string>
       <string>period</string>
+      <string>ellipsis</string>
     </array>
     <key>public.kern1.quotedbl1_1st</key>
     <array>
@@ -361,7 +357,6 @@
     <key>public.kern1.uni22151_1st</key>
     <array>
       <string>fraction</string>
-      <string>uni2215</string>
     </array>
     <key>public.kern1.w1_1st</key>
     <array>
@@ -438,10 +433,10 @@
       <string>Ncaron</string>
       <string>Ntilde</string>
       <string>P</string>
+      <string>Thorn</string>
       <string>R</string>
       <string>Racute</string>
       <string>Rcaron</string>
-      <string>Thorn</string>
     </array>
     <key>public.kern2.C_2nd</key>
     <array>
@@ -456,7 +451,6 @@
       <string>Gcircumflex</string>
       <string>Gdotaccent</string>
       <string>O</string>
-      <string>OE</string>
       <string>Oacute</string>
       <string>Obreve</string>
       <string>Ocircumflex</string>
@@ -465,8 +459,8 @@
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
       <string>Otilde</string>
+      <string>OE</string>
       <string>Q</string>
-      <string>uni0122</string>
     </array>
     <key>public.kern2.Eth_2nd</key>
     <array>
@@ -475,7 +469,6 @@
     </array>
     <key>public.kern2.Omega_2nd</key>
     <array>
-      <string>Omega</string>
       <string>uni03A9</string>
     </array>
     <key>public.kern2.T_2nd</key>
@@ -535,8 +528,8 @@
     <key>public.kern2.acute_2nd</key>
     <array>
       <string>acute</string>
-      <string>circumflex</string>
       <string>hungarumlaut</string>
+      <string>circumflex</string>
     </array>
     <key>public.kern2.bullet_2nd</key>
     <array>
@@ -556,17 +549,17 @@
       <string>obreve</string>
       <string>ocircumflex</string>
       <string>odieresis</string>
-      <string>oe</string>
       <string>ograve</string>
       <string>ohungarumlaut</string>
       <string>omacron</string>
       <string>otilde</string>
+      <string>oe</string>
     </array>
     <key>public.kern2.comma_2nd</key>
     <array>
       <string>comma</string>
-      <string>quotedblbase</string>
       <string>quotesinglbase</string>
+      <string>quotedblbase</string>
     </array>
     <key>public.kern2.dieresis_2nd</key>
     <array>
@@ -599,7 +592,6 @@
       <string>gbreve</string>
       <string>gcircumflex</string>
       <string>gdotaccent</string>
-      <string>uni0123</string>
     </array>
     <key>public.kern2.guillemotleft_2nd</key>
     <array>
@@ -623,8 +615,8 @@
     </array>
     <key>public.kern2.i_2nd</key>
     <array>
-      <string>dotlessi</string>
       <string>i</string>
+      <string>idotless</string>
       <string>iacute</string>
       <string>icircumflex</string>
       <string>idieresis</string>
@@ -633,7 +625,6 @@
       <string>iogonek</string>
       <string>itilde</string>
       <string>kgreenlandic</string>
-      <string>longs</string>
       <string>m</string>
       <string>n</string>
       <string>nacute</string>
@@ -643,18 +634,18 @@
       <string>r</string>
       <string>racute</string>
       <string>rcaron</string>
+      <string>longs</string>
     </array>
     <key>public.kern2.j_2nd</key>
     <array>
       <string>j</string>
       <string>jcircumflex</string>
-      <string>uni0237</string>
     </array>
     <key>public.kern2.minus_2nd</key>
     <array>
-      <string>emdash</string>
-      <string>endash</string>
       <string>hyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
       <string>minus</string>
     </array>
     <key>public.kern2.onehalf_2nd</key>
@@ -664,8 +655,8 @@
     </array>
     <key>public.kern2.period_2nd</key>
     <array>
-      <string>ellipsis</string>
       <string>period</string>
+      <string>ellipsis</string>
     </array>
     <key>public.kern2.quotedbl_2nd</key>
     <array>
@@ -712,7 +703,6 @@
     <key>public.kern2.uni2215_2nd</key>
     <array>
       <string>fraction</string>
-      <string>uni2215</string>
     </array>
     <key>public.kern2.w_2nd</key>
     <array>

@@ -1,82 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eogonek" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eogonek" format="2">
   <advance width="1165"/>
   <unicode hex="0119"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="797" y="0" name="ogonek"/>
+  <anchor x="583" y="1000" name="top"/>
   <outline>
-    <contour>
-      <point x="1032" y="123" type="curve"/>
-      <point x="956" y="243" type="line"/>
-      <point x="863.25" y="169.2"/>
-      <point x="754.3" y="130"/>
-      <point x="638.786" y="130" type="curve" smooth="yes"/>
-      <point x="442.1" y="130"/>
-      <point x="289.65" y="243.65"/>
-      <point x="253" y="420" type="curve"/>
-      <point x="1090" y="420" type="line"/>
-      <point x="1090" y="451.65" type="line" smooth="yes"/>
-      <point x="1090" y="788.2"/>
-      <point x="883.25" y="1020"/>
-      <point x="581.506" y="1020" type="curve" smooth="yes"/>
-      <point x="290.7" y="1020"/>
-      <point x="75" y="804.7"/>
-      <point x="75" y="513" type="curve" smooth="yes"/>
-      <point x="75" y="209"/>
-      <point x="310" y="-20"/>
-      <point x="622" y="-20" type="curve" smooth="yes"/>
-      <point x="644.689" y="-20"/>
-      <point x="667.302" y="-18.7822"/>
-      <point x="689.786" y="-16.3907" type="curve"/>
-      <point x="594.672" y="-69.2035"/>
-      <point x="537" y="-152.064"/>
-      <point x="537" y="-238" type="curve" smooth="yes"/>
-      <point x="537" y="-339"/>
-      <point x="618" y="-416"/>
-      <point x="753" y="-416" type="curve" name="av01"/>
-      <point x="763" y="-326" type="line"/>
-      <point x="673" y="-320"/>
-      <point x="628" y="-269"/>
-      <point x="628" y="-206" type="curve" smooth="yes"/>
-      <point x="628" y="-128.042"/>
-      <point x="693.914" y="-31.8104"/>
-      <point x="795.842" y="3.91965" type="curve" smooth="yes"/>
-      <point x="877.944" y="32.6999"/>
-      <point x="959.72" y="67.4554"/>
-    </contour>
-    <contour>
-      <point x="247" y="560" type="line"/>
-      <point x="267.15" y="745.6"/>
-      <point x="405.6" y="870"/>
-      <point x="590.987" y="870" type="curve" smooth="yes"/>
-      <point x="776.3" y="870"/>
-      <point x="913.8" y="745.7"/>
-      <point x="935" y="560" type="curve"/>
-    </contour>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="383"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>883</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>117</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

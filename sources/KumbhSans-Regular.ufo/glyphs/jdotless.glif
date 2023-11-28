@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessj" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
   <advance width="488"/>
   <unicode hex="0237"/>
+  <anchor x="244" y="-500" name="bottom"/>
+  <anchor x="261" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="-113" y="-507" type="line"/>
@@ -22,21 +24,4 @@
       <point x="-113" y="-376" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>-407</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

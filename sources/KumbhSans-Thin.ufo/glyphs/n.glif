@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="n" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
   <advance width="1212"/>
   <unicode hex="006E"/>
+  <anchor x="644" y="0" name="bottom"/>
+  <anchor x="626" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="1047" y="0" type="line"/>
@@ -26,21 +28,4 @@
       <point x="1006" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>-1440</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>
