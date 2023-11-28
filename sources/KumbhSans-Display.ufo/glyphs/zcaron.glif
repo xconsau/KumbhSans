@@ -1,28 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zcaron" format="1">
-  <advance width="1060"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcaron" format="2">
+  <advance width="1059"/>
   <unicode hex="017E"/>
+  <anchor x="530" y="0" name="bottom"/>
+  <anchor x="530" y="500" name="center"/>
+  <anchor x="550" y="1500" name="top"/>
   <outline>
-    <contour>
-      <point x="622" y="1166" type="line" name="at01"/>
-      <point x="835" y="1500" type="line"/>
-      <point x="712" y="1500" type="line" name="av01"/>
-      <point x="550" y="1237" type="line"/>
-      <point x="388" y="1500" type="line" name="av01.1"/>
-      <point x="265" y="1500" type="line"/>
-      <point x="477" y="1166" type="line" name="at01.1"/>
-    </contour>
-    <contour>
-      <point x="985" y="0" type="line"/>
-      <point x="985" y="38" type="line"/>
-      <point x="277" y="38" type="line"/>
-      <point x="969" y="964" type="line"/>
-      <point x="969" y="1000" type="line"/>
-      <point x="113" y="1000" type="line"/>
-      <point x="113" y="962" type="line"/>
-      <point x="766" y="962" type="line"/>
-      <point x="75" y="38" type="line"/>
-      <point x="75" y="0" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="caroncomb" xOffset="109"/>
   </outline>
 </glyph>

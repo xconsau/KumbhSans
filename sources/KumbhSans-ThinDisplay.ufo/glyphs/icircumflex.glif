@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="icircumflex" format="1">
-  <advance width="412"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="411"/>
   <unicode hex="00EE"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="226" y="0" name="ogonek"/>
+  <anchor x="206" y="1500" name="top"/>
   <outline>
-    <contour>
-      <point x="443" y="1170" type="line"/>
-      <point x="238" y="1500" type="line" name="at01"/>
-      <point x="181" y="1500" type="line" name="at01.1"/>
-      <point x="-24" y="1170" type="line"/>
-      <point x="10" y="1170" type="line" name="av01"/>
-      <point x="210" y="1466" type="line"/>
-      <point x="409" y="1170" type="line" name="av01.1"/>
-    </contour>
-    <contour>
-      <point x="227" y="0" type="line"/>
-      <point x="227" y="1000" type="line"/>
-      <point x="185" y="1000" type="line"/>
-      <point x="185" y="0" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="circumflexcomb" xOffset="-213"/>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="g" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g" format="2">
   <advance width="1326"/>
   <unicode hex="0067"/>
+  <anchor x="663" y="-500" name="bottom"/>
+  <anchor x="663" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="519" y="-20" type="curve" smooth="yes" name="dv01"/>

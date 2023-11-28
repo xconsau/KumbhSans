@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="z" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
   <advance width="1010"/>
   <unicode hex="007A"/>
+  <anchor x="505" y="0" name="bottom"/>
+  <anchor x="505" y="500" name="center"/>
+  <anchor x="525" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="905" y="0" type="line"/>

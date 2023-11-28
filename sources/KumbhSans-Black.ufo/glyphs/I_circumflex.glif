@@ -1,22 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Icircumflex" format="1">
-  <advance width="597"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance width="596"/>
   <unicode hex="00CE"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="454" y="0" name="ogonek"/>
+  <anchor x="298" y="2000" name="top"/>
+  <anchor x="20" y="1500" name="topleft"/>
   <outline>
-    <contour>
-      <point x="670" y="1660" type="line"/>
-      <point x="400" y="1660" type="line" name="av01.1"/>
-      <point x="298" y="1852" type="line"/>
-      <point x="196" y="1660" type="line" name="av01"/>
-      <point x="-73" y="1660" type="line"/>
-      <point x="152" y="2000" type="line" name="at01.1"/>
-      <point x="445" y="2000" type="line" name="at01.2"/>
-    </contour>
-    <contour>
-      <point x="497" y="1500" type="line" name="at01"/>
-      <point x="497" y="0" type="line" name="ab01"/>
-      <point x="101" y="0" type="line" name="dh01"/>
-      <point x="101" y="1500" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="circumflexcomb" xOffset="-174" yOffset="500"/>
   </outline>
 </glyph>

@@ -1,46 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="imacron" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
   <advance width="475"/>
   <unicode hex="012B"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="301" y="0" name="ogonek"/>
+  <anchor x="238" y="1392" name="top"/>
   <outline>
-    <contour>
-      <point x="562" y="1292" type="line" name="av02"/>
-      <point x="562" y="1392" type="line"/>
-      <point x="-87" y="1392" type="line" name="av01"/>
-      <point x="-87" y="1292" type="line"/>
-    </contour>
-    <contour>
-      <point x="320" y="0" type="line"/>
-      <point x="320" y="1000" type="line"/>
-      <point x="155" y="1000" type="line"/>
-      <point x="155" y="0" type="line"/>
-    </contour>
+    <component base="idotless"/>
+    <component base="macroncomb" xOffset="-242"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1250</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1250</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

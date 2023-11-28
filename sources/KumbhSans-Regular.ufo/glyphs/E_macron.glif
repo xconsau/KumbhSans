@@ -1,27 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Emacron" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacron" format="2">
   <advance width="1229"/>
   <unicode hex="0112"/>
+  <anchor x="615" y="0" name="bottom"/>
+  <anchor x="1074" y="0" name="ogonek"/>
+  <anchor x="615" y="1892" name="top"/>
+  <anchor x="20" y="1500" name="topleft"/>
   <outline>
-    <contour>
-      <point x="945" y="1792" type="line" name="av02"/>
-      <point x="945" y="1892" type="line"/>
-      <point x="296" y="1892" type="line" name="av01"/>
-      <point x="296" y="1792" type="line"/>
-    </contour>
-    <contour>
-      <point x="155" y="0" type="line"/>
-      <point x="1084" y="0" type="line"/>
-      <point x="1084" y="156" type="line"/>
-      <point x="331" y="156" type="line"/>
-      <point x="331" y="684" type="line"/>
-      <point x="1033" y="684" type="line"/>
-      <point x="1033" y="840" type="line"/>
-      <point x="331" y="840" type="line"/>
-      <point x="331" y="1344" type="line"/>
-      <point x="1074" y="1344" type="line"/>
-      <point x="1074" y="1500" type="line"/>
-      <point x="155" y="1500" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="macroncomb" xOffset="135" yOffset="500"/>
   </outline>
 </glyph>

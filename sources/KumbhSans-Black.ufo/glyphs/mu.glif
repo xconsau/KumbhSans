@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="mu" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
   <advance width="1302"/>
   <unicode hex="00B5"/>
   <outline>
@@ -33,21 +33,4 @@
       <point x="1110" y="-20"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>2104</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

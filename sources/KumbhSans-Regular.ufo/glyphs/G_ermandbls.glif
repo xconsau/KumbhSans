@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Germandbls" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
   <advance width="1325"/>
   <unicode hex="1E9E"/>
   <outline>
@@ -23,8 +23,8 @@
       <point x="663.306" y="126"/>
       <point x="604.384" y="139.611"/>
       <point x="507.676" y="177.358" type="curve"/>
-      <point x="451.726" y="28.2611" type="line"/>
-      <point x="556.954" y="-11.5726"/>
+      <point x="451.726" y="28.261" type="line"/>
+      <point x="556.954" y="-11.573"/>
       <point x="649.713" y="-30"/>
       <point x="744.997" y="-30" type="curve" smooth="yes"/>
       <point x="1037.84" y="-30"/>

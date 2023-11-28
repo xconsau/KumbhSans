@@ -1,53 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ycircumflex" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex" format="2">
   <advance width="1082"/>
   <unicode hex="0177"/>
+  <anchor x="849" y="0" name="bottom"/>
+  <anchor x="578" y="1500" name="top"/>
   <outline>
-    <contour>
-      <point x="808" y="1170" type="line"/>
-      <point x="603" y="1500" type="line" name="at01"/>
-      <point x="546" y="1500" type="line" name="at01.1"/>
-      <point x="341" y="1170" type="line"/>
-      <point x="375" y="1170" type="line" name="av01"/>
-      <point x="575" y="1466" type="line"/>
-      <point x="774" y="1170" type="line" name="av01.1"/>
-    </contour>
-    <contour>
-      <point x="376" y="-500" type="line"/>
-      <point x="997" y="1000" type="line"/>
-      <point x="953" y="1000" type="line"/>
-      <point x="565" y="64" type="line"/>
-      <point x="130" y="1000" type="line"/>
-      <point x="85" y="1000" type="line"/>
-      <point x="544" y="13" type="line"/>
-      <point x="332" y="-500" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="circumflexcomb" xOffset="159"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>-500</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>-542</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

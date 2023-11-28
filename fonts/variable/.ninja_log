@@ -1,0 +1,13 @@
+# ninja log v5
+0	23492	1701175184307336348	out/Diffenator/Black-Bold-ExtraBold-ExtraLight/ExtraBold	1cfdfb4349d9a53d
+0	23545	1701175184356779207	out/Diffenator/Black-Bold-ExtraBold-ExtraLight/Bold	78c93d8fdd00fefd
+0	23572	1701175184385495125	out/Diffenator/Black-Bold-ExtraBold-ExtraLight/Black	fded81a5d596334a
+1	23642	1701175184517100813	out/Diffenator/Black-Bold-ExtraBold-ExtraLight/ExtraLight	89529f1e9cf0db0f
+1	22810	1701175207284474697	out/Diffenator/Light-Medium-Regular-SemiBold/SemiBold	810a89b2f4c2ce34
+0	22854	1701175207332578345	out/Diffenator/Light-Medium-Regular-SemiBold/Light	85b0d3254df7dcf5
+1	22872	1701175207356546193	out/Diffenator/Light-Medium-Regular-SemiBold/Medium	f0f60e4348712bb
+1	23121	1701175207655201959	out/Diffenator/Light-Medium-Regular-SemiBold/Regular	3a90bb750181aa43
+0	21242	1701175228892858358	out/Diffenator/Thin/Thin	74c6e5625e1a92b8
+1	1310	1701175230253198665	out/Diffbrowsers/Black-Bold-ExtraBold-ExtraLight/diffbrowsers	c52b263709080f8c
+0	1292	1701175231546724115	out/Diffbrowsers/Light-Medium-Regular-SemiBold/diffbrowsers	42c384c65128b1be
+0	1285	1701175232834221406	out/Diffbrowsers/Thin/diffbrowsers	b2e026b0a7f93c7e

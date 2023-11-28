@@ -1,80 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Sacute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacute" format="2">
   <advance width="1156"/>
   <unicode hex="015A"/>
+  <anchor x="613" y="0" name="bottom"/>
+  <anchor x="677" y="2000" name="top"/>
   <outline>
-    <contour>
-      <point x="594" y="1670" type="line"/>
-      <point x="785" y="2000" type="line"/>
-      <point x="732" y="2000" type="line"/>
-      <point x="561" y="1670" type="line"/>
-    </contour>
-    <contour>
-      <point x="115" y="131" type="line"/>
-      <point x="241" y="27"/>
-      <point x="396" y="-30"/>
-      <point x="553" y="-30" type="curve" smooth="yes"/>
-      <point x="826" y="-30"/>
-      <point x="1021" y="142"/>
-      <point x="1021" y="384" type="curve" smooth="yes"/>
-      <point x="1021" y="636"/>
-      <point x="811" y="725"/>
-      <point x="609" y="811" type="curve" smooth="yes"/>
-      <point x="421" y="891"/>
-      <point x="239" y="968"/>
-      <point x="239" y="1171" type="curve" smooth="yes"/>
-      <point x="239" y="1359"/>
-      <point x="394" y="1488"/>
-      <point x="611" y="1488" type="curve" smooth="yes"/>
-      <point x="710" y="1488"/>
-      <point x="810" y="1461"/>
-      <point x="902" y="1410" type="curve"/>
-      <point x="925" y="1449" type="line"/>
-      <point x="833" y="1502"/>
-      <point x="726" y="1530"/>
-      <point x="616" y="1530" type="curve" smooth="yes"/>
-      <point x="365" y="1530"/>
-      <point x="194" y="1385"/>
-      <point x="194" y="1171" type="curve" smooth="yes"/>
-      <point x="194" y="942"/>
-      <point x="390" y="858"/>
-      <point x="586" y="775" type="curve" smooth="yes"/>
-      <point x="781" y="692"/>
-      <point x="976" y="610"/>
-      <point x="976" y="382" type="curve" smooth="yes"/>
-      <point x="976" y="165"/>
-      <point x="799" y="12"/>
-      <point x="549" y="12" type="curve" smooth="yes"/>
-      <point x="400" y="12"/>
-      <point x="259" y="66"/>
-      <point x="140" y="166" type="curve"/>
-    </contour>
+    <component base="S"/>
+    <component base="acutecomb" xOffset="440" yOffset="500"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>116</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>-79</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

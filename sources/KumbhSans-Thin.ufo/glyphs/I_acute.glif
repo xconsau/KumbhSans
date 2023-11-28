@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iacute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute" format="2">
   <advance width="414"/>
   <unicode hex="00CD"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="228" y="0" name="ogonek"/>
+  <anchor x="291" y="2000" name="top"/>
+  <anchor x="20" y="1500" name="topleft"/>
   <outline>
-    <contour>
-      <point x="189" y="1670" type="line"/>
-      <point x="155" y="1670" type="line"/>
-      <point x="327" y="2000" type="line"/>
-      <point x="380" y="2000" type="line"/>
-    </contour>
-    <contour>
-      <point x="229" y="1500" type="line" name="at01"/>
-      <point x="229" y="0" type="line" name="ab01"/>
-      <point x="185" y="0" type="line" name="dh01"/>
-      <point x="185" y="1500" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="acutecomb" xOffset="54" yOffset="500"/>
   </outline>
 </glyph>

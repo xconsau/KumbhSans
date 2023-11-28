@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macroncomb" format="1">
-  <advance width="959"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
   <unicode hex="0304"/>
+  <anchor x="480" y="1000" name="_top"/>
+  <anchor x="480" y="1393" name="top"/>
   <outline>
-    <component base="macron"/>
+    <contour>
+      <point x="804" y="1292" type="line" name="av02"/>
+      <point x="804" y="1393" type="line"/>
+      <point x="155" y="1393" type="line" name="av01"/>
+      <point x="155" y="1292" type="line"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>959</integer>
+    </dict>
   </lib>
 </glyph>
