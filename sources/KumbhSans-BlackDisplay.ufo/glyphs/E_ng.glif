@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Eng" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
   <advance width="1479"/>
   <unicode hex="014A"/>
   <outline>
@@ -27,7 +27,7 @@
       <point x="962.628" y="300.021" type="line" smooth="yes"/>
       <point x="1099.31" y="183.647"/>
       <point x="1176.41" y="118"/>
-      <point x="1313.09" y="1.6258" type="curve"/>
+      <point x="1313.09" y="1.626" type="curve"/>
       <point x="1296.43" y="-209.032"/>
       <point x="1169.54" y="-318"/>
       <point x="938" y="-318" type="curve"/>

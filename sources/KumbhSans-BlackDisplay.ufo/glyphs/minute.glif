@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="minute" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
   <advance width="515"/>
   <unicode hex="2032"/>
   <outline>
@@ -10,15 +10,4 @@
       <point x="137" y="1085" type="line"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
-  </lib>
 </glyph>

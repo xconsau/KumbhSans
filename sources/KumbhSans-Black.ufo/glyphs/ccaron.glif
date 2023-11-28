@@ -1,91 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ccaron" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
   <advance width="1063"/>
   <unicode hex="010D"/>
+  <anchor x="590" y="0" name="bottom"/>
+  <anchor x="590" y="1500" name="top"/>
   <outline>
-    <contour>
-      <point x="755" y="1160" type="line" name="at01.1"/>
-      <point x="980" y="1500" type="line"/>
-      <point x="711" y="1500" type="line" name="av01"/>
-      <point x="610" y="1309" type="line"/>
-      <point x="508" y="1500" type="line" name="av01.1"/>
-      <point x="238" y="1500" type="line"/>
-      <point x="463" y="1160" type="line" name="at01.1.1"/>
-    </contour>
-    <contour>
-      <point x="1023" y="169" type="curve"/>
-      <point x="806" y="393" type="line"/>
-      <point x="766" y="342"/>
-      <point x="694" y="310"/>
-      <point x="622" y="310" type="curve" smooth="yes" name="dv02"/>
-      <point x="509" y="310"/>
-      <point x="428" y="390"/>
-      <point x="428" y="502" type="curve" smooth="yes" name="sh02"/>
-      <point x="428" y="612"/>
-      <point x="509" y="690"/>
-      <point x="622" y="690" type="curve" smooth="yes" name="sv01"/>
-      <point x="694" y="690"/>
-      <point x="764" y="658"/>
-      <point x="806" y="607" type="curve"/>
-      <point x="1021" y="834" type="line"/>
-      <point x="924" y="949"/>
-      <point x="773" y="1020"/>
-      <point x="595" y="1020" type="curve" smooth="yes" name="at01"/>
-      <point x="280" y="1020"/>
-      <point x="50" y="800"/>
-      <point x="50" y="500" type="curve" smooth="yes" name="sh01"/>
-      <point x="50" y="200"/>
-      <point x="280" y="-20"/>
-      <point x="595" y="-20" type="curve" smooth="yes" name="dv01"/>
-      <point x="775" y="-20"/>
-      <point x="926" y="52"/>
-    </contour>
+    <component base="c"/>
+    <component base="caroncomb" xOffset="119"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>780</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>220</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>580</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>420</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

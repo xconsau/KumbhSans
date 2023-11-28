@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_f_l" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="2">
   <advance width="2314"/>
   <unicode hex="FB04"/>
   <outline>
@@ -52,21 +52,4 @@
       <point x="1825" y="0" type="line" name="ab01"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>1370</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>
