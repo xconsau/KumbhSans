@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlautcomb" format="1">
-  <advance width="983"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
   <unicode hex="030B"/>
+  <anchor x="415" y="1000" name="_top"/>
+  <anchor x="415" y="1500" name="top"/>
   <outline>
-    <component base="hungarumlaut"/>
+    <contour>
+      <point x="325" y="1160" type="line" name="av01"/>
+      <point x="525" y="1500" type="line" name="at01"/>
+      <point x="196" y="1500" type="line"/>
+      <point x="64" y="1160" type="line"/>
+    </contour>
+    <contour>
+      <point x="746" y="1160" type="line" name="av01.1"/>
+      <point x="946" y="1500" type="line" name="at01.1"/>
+      <point x="617" y="1500" type="line"/>
+      <point x="485" y="1160" type="line"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>983</integer>
+    </dict>
   </lib>
 </glyph>

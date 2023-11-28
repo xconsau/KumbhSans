@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ae" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
   <advance width="1873"/>
   <unicode hex="00E6"/>
   <outline>
@@ -77,21 +77,4 @@
       <point x="742" y="552"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>116</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

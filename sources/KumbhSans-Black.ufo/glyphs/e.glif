@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="e" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
   <advance width="1166"/>
   <unicode hex="0065"/>
+  <anchor x="583" y="0" name="bottom"/>
+  <anchor x="829" y="0" name="ogonek"/>
+  <anchor x="583" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="1051" y="105" type="curve"/>
@@ -36,31 +39,4 @@
       <point x="778" y="560" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>861</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>121</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>

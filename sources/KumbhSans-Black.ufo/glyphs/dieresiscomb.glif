@@ -1,19 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresiscomb" format="1">
-  <advance width="929"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
   <unicode hex="0308"/>
+  <anchor x="465" y="1000" name="_top"/>
+  <anchor x="465" y="1469" name="top"/>
   <outline>
-    <component base="dieresis"/>
+    <contour>
+      <point x="699" y="1189" type="curve" smooth="yes"/>
+      <point x="783" y="1189"/>
+      <point x="839" y="1245"/>
+      <point x="839" y="1329" type="curve" smooth="yes"/>
+      <point x="839" y="1413"/>
+      <point x="783" y="1469"/>
+      <point x="699" y="1469" type="curve" smooth="yes"/>
+      <point x="615" y="1469"/>
+      <point x="559" y="1413"/>
+      <point x="559" y="1329" type="curve" smooth="yes"/>
+      <point x="559" y="1245"/>
+      <point x="615" y="1189"/>
+    </contour>
+    <contour>
+      <point x="230" y="1189" type="curve" smooth="yes"/>
+      <point x="314" y="1189"/>
+      <point x="370" y="1245"/>
+      <point x="370" y="1329" type="curve" smooth="yes"/>
+      <point x="370" y="1413"/>
+      <point x="314" y="1469"/>
+      <point x="230" y="1469" type="curve" smooth="yes"/>
+      <point x="146" y="1469"/>
+      <point x="90" y="1413"/>
+      <point x="90" y="1329" type="curve" smooth="yes"/>
+      <point x="90" y="1245"/>
+      <point x="146" y="1189"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>929</integer>
+    </dict>
   </lib>
 </glyph>

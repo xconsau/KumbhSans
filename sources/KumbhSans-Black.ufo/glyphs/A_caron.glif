@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acaron" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acaron" format="2">
   <advance width="1606"/>
   <unicode hex="01CD"/>
+  <anchor x="803" y="0" name="bottom"/>
+  <anchor x="1466" y="0" name="ogonek"/>
+  <anchor x="803" y="2000" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="caron" xOffset="332" yOffset="500"/>
+    <component base="caroncomb" xOffset="332" yOffset="500"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
-  </lib>
 </glyph>

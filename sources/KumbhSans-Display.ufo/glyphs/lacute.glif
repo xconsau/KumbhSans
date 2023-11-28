@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lacute" format="1">
-  <advance width="485"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="484"/>
   <unicode hex="013A"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="242" y="500" name="center"/>
+  <anchor x="324" y="2000" name="top"/>
+  <anchor x="464" y="1500" name="topright"/>
   <outline>
-    <contour>
-      <point x="300" y="1666" type="line"/>
-      <point x="495" y="2000" type="line"/>
-      <point x="338" y="2000" type="line"/>
-      <point x="181" y="1666" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="0" type="line"/>
-      <point x="329" y="1540" type="line" name="av01"/>
-      <point x="155" y="1540" type="line" name="dh01"/>
-      <point x="155" y="0" type="line" name="ab01"/>
-    </contour>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="72" yOffset="500"/>
   </outline>
 </glyph>

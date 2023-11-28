@@ -1,19 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutecomb" format="1">
-  <advance width="531"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
+  <anchor x="193" y="1000" name="_top"/>
+  <anchor x="271" y="1500" name="top"/>
   <outline>
-    <component base="acute"/>
+    <contour>
+      <point x="301" y="1160" type="line" name="av01"/>
+      <point x="501" y="1500" type="line" name="at01"/>
+      <point x="172" y="1500" type="line"/>
+      <point x="40" y="1160" type="line"/>
+    </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.604</real>
-    <real>0.6</real>
-    <real>1</real>
-    <real>1</real>
-  </array>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>531</integer>
+    </dict>
   </lib>
 </glyph>

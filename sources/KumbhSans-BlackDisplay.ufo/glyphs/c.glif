@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="c" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
   <advance width="1054"/>
   <unicode hex="0063"/>
+  <anchor x="608" y="0" name="bottom"/>
+  <anchor x="608" y="1000" name="top"/>
   <outline>
     <contour>
       <point x="994" y="118" type="curve"/>
@@ -32,51 +34,4 @@
       <point x="895" y="29"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>783</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>90</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>578</real>
-    </dict>
-    <dict>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>330</real>
-    </dict>
-  </array>
-  </dict>
-  </lib>
 </glyph>
